@@ -96,48 +96,6 @@
 
 ---
 
-## 🇨🇳 China-Based / China-Focused Platforms
-
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **NowCoder** | [Visit](https://www.nowcoder.com) | Chinese coding interview, programming practice, campus hiring, and technical assessment platform. |
-| **Gank Interview** | [Visit](https://www.gankinterview.cn) | China-focused interview-preparation platform for technical and job interview practice. |
-| **NiuMian Offer** | [Visit](https://niumianoffer.com) | Chinese interview-preparation and offer-focused platform for candidates preparing for hiring rounds. |
-| **1Point3Acres** | [Visit](https://www.1point3acres.com) | Chinese-speaking career and study-abroad community with interview experiences, job-search discussions, and offer data. |
-
-## 🇯🇵 Japan-Based Platforms
-
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **LAPRAS** | [Visit](https://lapras.com) | Japanese talent-matching and engineer profile platform that helps developers showcase technical skills. |
-| **paiza** | [Visit](https://paiza.jp) | Japanese coding skill-check, programming learning, and engineer recruitment platform. |
-| **AtCoder Jobs** | [Visit](https://jobs.atcoder.jp) | Job platform connected to AtCoder, focused on recruiting competitive programmers and engineers. |
-
-## 🇰🇷 South Korea-Based Platforms
-
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **Programmers** | [Visit](https://programmers.co.kr) | Korean developer hiring, coding test, learning, and programming assessment platform. |
-| **goormLEVEL** | [Visit](https://level.goorm.io) | Korean coding-test and algorithm-practice platform by goorm for developer skill assessment. |
-
-## 🇮🇳 India-Based Platforms
-
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **GeeksforGeeks / GFG Interview Experience** | [Visit](https://www.geeksforgeeks.org/category/experiences/interview-experiences/) | Community-published interview experiences, coding questions, and company-wise preparation articles. |
-| **AmbitionBox** | [Visit](https://www.ambitionbox.com) | Indian company reviews, salaries, interview questions, interview experiences, and workplace insights platform. |
-| **Naukri Campus** | [Visit](https://www.naukri.com/campus) | Campus hiring and early-career job platform by Naukri for students, freshers, and entry-level candidates. |
-| **InterviewBit** | [Visit](https://www.interviewbit.com) | Technical interview-preparation platform with coding practice, DSA tracks, programming questions, and interview resources. |
-| **InCruiter** | [Visit](https://incruiter.com) | Interview-as-a-Service platform offering video interviews, technical assessments, interviewer networks, and hiring automation. |
-
-## 🇸🇬 Singapore-Based Platforms
-
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **Tech Interview Handbook** | [Visit](https://www.techinterviewhandbook.org) | Free technical interview-preparation handbook covering coding, behavioral, resume, and system design guidance. |
-| **GreatFrontEnd** | [Visit](https://www.greatfrontend.com) | Frontend interview-preparation platform for JavaScript, React, UI coding, system design, and frontend questions. |
-| **Frontend Interview Handbook** | [Visit](https://www.frontendinterviewhandbook.com) | Free frontend interview-preparation handbook covering JavaScript, HTML, CSS, system design, and behavioral prep. |
-
 ## 🇺🇸 United States-Based / Global Platforms
 
 | Platform | Official Link | Explanation |
@@ -182,6 +140,51 @@
 | **System Design Primer** | [Visit](https://github.com/donnemartin/system-design-primer) | Popular open-source GitHub repository for learning large-scale system design and architecture interview concepts. |
 | **Interview Query** | [Visit](https://www.interviewquery.com) | Data science, analytics, machine learning, and data engineering interview-preparation platform. |
 | **Formation.dev** | [Visit](https://formation.dev) | Mentor-led software engineering interview-preparation and career coaching platform for experienced engineers. |
+
+
+
+## 🇨🇳 China-Based / China-Focused Platforms
+
+| Platform | Official Link | Explanation |
+|---|---|---|
+| **NowCoder** | [Visit](https://www.nowcoder.com) | Chinese coding interview, programming practice, campus hiring, and technical assessment platform. |
+| **Gank Interview** | [Visit](https://www.gankinterview.cn) | China-focused interview-preparation platform for technical and job interview practice. |
+| **NiuMian Offer** | [Visit](https://niumianoffer.com) | Chinese interview-preparation and offer-focused platform for candidates preparing for hiring rounds. |
+| **1Point3Acres** | [Visit](https://www.1point3acres.com) | Chinese-speaking career and study-abroad community with interview experiences, job-search discussions, and offer data. |
+
+## 🇯🇵 Japan-Based Platforms
+
+| Platform | Official Link | Explanation |
+|---|---|---|
+| **LAPRAS** | [Visit](https://lapras.com) | Japanese talent-matching and engineer profile platform that helps developers showcase technical skills. |
+| **paiza** | [Visit](https://paiza.jp) | Japanese coding skill-check, programming learning, and engineer recruitment platform. |
+| **AtCoder Jobs** | [Visit](https://jobs.atcoder.jp) | Job platform connected to AtCoder, focused on recruiting competitive programmers and engineers. |
+
+## 🇰🇷 South Korea-Based Platforms
+
+| Platform | Official Link | Explanation |
+|---|---|---|
+| **Programmers** | [Visit](https://programmers.co.kr) | Korean developer hiring, coding test, learning, and programming assessment platform. |
+| **goormLEVEL** | [Visit](https://level.goorm.io) | Korean coding-test and algorithm-practice platform by goorm for developer skill assessment. |
+
+## 🇮🇳 India-Based Platforms
+
+| Platform | Official Link | Explanation |
+|---|---|---|
+| **GeeksforGeeks / GFG Interview Experience** | [Visit](https://www.geeksforgeeks.org/category/experiences/interview-experiences/) | Community-published interview experiences, coding questions, and company-wise preparation articles. |
+| **AmbitionBox** | [Visit](https://www.ambitionbox.com) | Indian company reviews, salaries, interview questions, interview experiences, and workplace insights platform. |
+| **Naukri Campus** | [Visit](https://www.naukri.com/campus) | Campus hiring and early-career job platform by Naukri for students, freshers, and entry-level candidates. |
+| **InterviewBit** | [Visit](https://www.interviewbit.com) | Technical interview-preparation platform with coding practice, DSA tracks, programming questions, and interview resources. |
+| **InCruiter** | [Visit](https://incruiter.com) | Interview-as-a-Service platform offering video interviews, technical assessments, interviewer networks, and hiring automation. |
+
+## 🇸🇬 Singapore-Based Platforms
+
+| Platform | Official Link | Explanation |
+|---|---|---|
+| **Tech Interview Handbook** | [Visit](https://www.techinterviewhandbook.org) | Free technical interview-preparation handbook covering coding, behavioral, resume, and system design guidance. |
+| **GreatFrontEnd** | [Visit](https://www.greatfrontend.com) | Frontend interview-preparation platform for JavaScript, React, UI coding, system design, and frontend questions. |
+| **Frontend Interview Handbook** | [Visit](https://www.frontendinterviewhandbook.com) | Free frontend interview-preparation handbook covering JavaScript, HTML, CSS, system design, and behavioral prep. |
+
 
 ## 🇳🇱 Netherlands-Based Platform
 
