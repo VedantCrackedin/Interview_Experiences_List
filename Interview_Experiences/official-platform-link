@@ -1,192 +1,2205 @@
-#  Official Platform Links by Country
+# Interview Experience Data Sources
 
-> A clean reference list of interview-experience, coding-practice, technical-preparation, hiring, and developer-career platforms.  
-> Each entry includes the **official platform link**, **country / primary region**, and a short explanation of what the platform is useful for.
-
----
-
-
-###  Country Coverage
-
-| Country / Primary Region | No. of Platforms | Platforms |
-|---|---:|---|
-| China | 4 | NowCoder, Gank Interview, NiuMian Offer, 1Point3Acres |
-| India | 5 | GeeksforGeeks / GFG Interview Experience, AmbitionBox, Naukri Campus, InterviewBit, InCruiter |
-| Japan | 3 | LAPRAS, paiza, AtCoder Jobs |
-| Netherlands | 1 | The Pragmatic Engineer |
-| Singapore | 3 | Tech Interview Handbook, GreatFrontEnd, Frontend Interview Handbook |
-| South Korea | 2 | Programmers, goormLEVEL |
-| United States | 40 | Glassdoor, IGotAnOffer, Reddit, Medium, LinkedIn, InterviewBrew, InterviewRecap, Quora, Blind / TeamBlind, Indeed, LeetCode Discuss, Fishbowl, GitHub Interview Repositories, YouTube Interview Experience Videos, HackerRank, Design Gurus, Interviewing.io, Exponent, AlgoMaster, ByteByteGo, Levels.fyi, Comparably, Codemia, Hello Interview, Big Interview, Y Combinator Hacker News, CoderPad Blog, Stack Overflow Discussions, Hashnode Interview Blogs, Scribd, Prepfully, SysDesign Hub, AMA Interview, Educative.io, DevInterview.io, Ardan Labs, FullStack.Cafe, System Design Primer, Interview Query, Formation.dev |
+> This document lists interview-experience, coding-practice, technical-preparation, hiring, and developer-career platforms.  
+> Each platform has its official link, country / primary region, content ownership, content type, platform explanation, notes, and main content types.
 
 ---
 
-##  Platform Categories
+## Quick Index
 
-| Category | Platforms |
+| No. | Platform | Country / Primary Region | Official Link |
+|---:|---|---|---|
+| 1 | [Glassdoor Interview Experience](#1-glassdoor-interview-experience) | United States | [Official Platform](https://www.glassdoor.com) |
+| 2 | [IGotAnOffer](#2-igotanoffer) | United States | [Official Platform](https://igotanoffer.com) |
+| 3 | [GeeksforGeeks / GFG Interview Experience](#3-geeksforgeeks--gfg-interview-experience) | India | [Official Platform](https://www.geeksforgeeks.org/category/experiences/interview-experiences/) |
+| 4 | [Reddit Interview Experience](#4-reddit-interview-experience) | United States | [Official Platform](https://www.reddit.com) |
+| 5 | [AmbitionBox Interview Experience](#5-ambitionbox-interview-experience) | India | [Official Platform](https://www.ambitionbox.com) |
+| 6 | [Medium Interview Experience](#6-medium-interview-experience) | United States | [Official Platform](https://medium.com) |
+| 7 | [LinkedIn Interview Experience](#7-linkedin-interview-experience) | United States | [Official Platform](https://www.linkedin.com) |
+| 8 | [InterviewBrew](#8-interviewbrew) | United States | [Official Platform](https://www.interviewbrew.com) |
+| 9 | [InterviewRecap](#9-interviewrecap) | United States | [Official Platform](https://www.interviewrecap.com) |
+| 10 | [Quora Interview Experience](#10-quora-interview-experience) | United States | [Official Platform](https://www.quora.com) |
+| 11 | [Blind / TeamBlind Interview Experience](#11-blind--teamblind-interview-experience) | United States | [Official Platform](https://www.teamblind.com) |
+| 12 | [Indeed Company Reviews](#12-indeed-company-reviews) | United States | [Official Platform](https://www.indeed.com) |
+| 13 | [LeetCode Discuss Interview Experiences](#13-leetcode-discuss-interview-experiences) | United States | [Official Platform](https://leetcode.com/discuss/) |
+| 14 | [Fishbowl Interview Experiences](#14-fishbowl-interview-experiences) | United States | [Official Platform](https://www.fishbowlapp.com) |
+| 15 | [GitHub Interview Repositories](#15-github-interview-repositories) | United States | [Official Platform](https://github.com) |
+| 16 | [YouTube Interview Experience Videos](#16-youtube-interview-experience-videos) | United States | [Official Platform](https://www.youtube.com) |
+| 17 | [HackerRank](#17-hackerrank) | United States | [Official Platform](https://www.hackerrank.com) |
+| 18 | [Design Gurus](#18-design-gurus) | United States | [Official Platform](https://www.designgurus.io) |
+| 19 | [Interviewing.io](#19-interviewingio) | United States | [Official Platform](https://interviewing.io) |
+| 20 | [Exponent](#20-exponent) | United States | [Official Platform](https://www.tryexponent.com) |
+| 21 | [AlgoMaster](#21-algomaster) | United States | [Official Platform](https://algomaster.io) |
+| 22 | [ByteByteGo](#22-bytebytego) | United States | [Official Platform](https://bytebytego.com) |
+| 23 | [Levels.fyi](#23-levelsfyi) | United States | [Official Platform](https://www.levels.fyi) |
+| 24 | [Comparably](#24-comparably) | United States | [Official Platform](https://www.comparably.com) |
+| 25 | [Codemia](#25-codemia) | United States | [Official Platform](https://codemia.io) |
+| 26 | [Hello Interview](#26-hello-interview) | United States | [Official Platform](https://www.hellointerview.com) |
+| 27 | [Big Interview](#27-big-interview) | United States | [Official Platform](https://biginterview.com) |
+| 28 | [The Pragmatic Engineer](#28-the-pragmatic-engineer) | Netherlands | [Official Platform](https://newsletter.pragmaticengineer.com) |
+| 29 | [Y Combinator Hacker News](#29-y-combinator-hacker-news) | United States | [Official Platform](https://news.ycombinator.com) |
+| 30 | [CoderPad Blog](#30-coderpad-blog) | United States | [Official Platform](https://coderpad.io/blog/) |
+| 31 | [Stack Overflow Discussions](#31-stack-overflow-discussions) | United States | [Official Platform](https://stackoverflow.com) |
+| 32 | [Hashnode Interview Blogs](#32-hashnode-interview-blogs) | United States | [Official Platform](https://hashnode.com) |
+| 33 | [Scribd Interview Experience](#33-scribd-interview-experience) | United States | [Official Platform](https://www.scribd.com) |
+| 34 | [Prepfully Interview Experiences](#34-prepfully-interview-experiences) | United States | [Official Platform](https://prepfully.com) |
+| 35 | [Naukri Campus](#35-naukri-campus) | India | [Official Platform](https://www.naukri.com/campus) |
+| 36 | [InterviewBit](#36-interviewbit) | India | [Official Platform](https://www.interviewbit.com) |
+| 37 | [1Point3Acres](#37-1point3acres) | China | [Official Platform](https://www.1point3acres.com) |
+| 38 | [SysDesign Hub](#38-sysdesign-hub) | United States | [Official Platform](https://www.sysdesignhub.com) |
+| 39 | [AMA Interview](#39-ama-interview) | United States | [Official Platform](https://www.amainterview.ai) |
+| 40 | [Tech Interview Handbook](#40-tech-interview-handbook) | Singapore | [Official Platform](https://www.techinterviewhandbook.org) |
+| 41 | [Educative.io](#41-educativeio) | United States | [Official Platform](https://www.educative.io) |
+| 42 | [DevInterview.io](#42-devinterviewio) | United States | [Official Platform](https://www.devinterview.io) |
+| 43 | [Ardan Labs](#43-ardan-labs) | United States | [Official Platform](https://www.ardanlabs.com) |
+| 44 | [GreatFrontEnd](#44-greatfrontend) | Singapore | [Official Platform](https://www.greatfrontend.com) |
+| 45 | [Frontend Interview Handbook](#45-frontend-interview-handbook) | Singapore | [Official Platform](https://www.frontendinterviewhandbook.com) |
+| 46 | [FullStack.Cafe](#46-fullstackcafe) | United States | [Official Platform](https://www.fullstack.cafe) |
+| 47 | [System Design Primer](#47-system-design-primer) | United States | [Official Platform](https://github.com/donnemartin/system-design-primer) |
+| 48 | [Interview Query](#48-interview-query) | United States | [Official Platform](https://www.interviewquery.com) |
+| 49 | [Formation.dev](#49-formationdev) | United States | [Official Platform](https://formation.dev) |
+| 50 | [InCruiter](#50-incruiter) | India | [Official Platform](https://incruiter.com) |
+| 51 | [NowCoder](#51-nowcoder) | China | [Official Platform](https://www.nowcoder.com) |
+| 52 | [Gank Interview](#52-gank-interview) | China | [Official Platform](https://www.gankinterview.cn) |
+| 53 | [NiuMian Offer](#53-niumian-offer) | China | [Official Platform](https://niumianoffer.com) |
+| 54 | [LAPRAS](#54-lapras) | Japan | [Official Platform](https://lapras.com) |
+| 55 | [Programmers](#55-programmers) | South Korea | [Official Platform](https://programmers.co.kr) |
+| 56 | [goormLEVEL](#56-goormlevel) | South Korea | [Official Platform](https://level.goorm.io) |
+| 57 | [paiza](#57-paiza) | Japan | [Official Platform](https://paiza.jp) |
+| 58 | [AtCoder Jobs](#58-atcoder-jobs) | Japan | [Official Platform](https://jobs.atcoder.jp) |
+
+---
+
+## Country Summary
+
+| Country / Primary Region | Platforms |
 |---|---|
-| **Interview Experience / Community Sources** | Glassdoor, GeeksforGeeks / GFG Interview Experience, Reddit, AmbitionBox, Medium, LinkedIn, InterviewBrew, InterviewRecap, Quora, Blind / TeamBlind, LeetCode Discuss, Fishbowl, YouTube Interview Experience Videos, Hashnode Interview Blogs, Scribd, Prepfully, 1Point3Acres, AMA Interview |
-| **Technical Interview Practice** | NowCoder, Gank Interview, NiuMian Offer, Programmers, goormLEVEL, paiza, HackerRank, Design Gurus, Interviewing.io, Exponent, AlgoMaster, ByteByteGo, Codemia, Hello Interview, InterviewBit, Tech Interview Handbook, Educative.io, DevInterview.io, GreatFrontEnd, Frontend Interview Handbook, FullStack.Cafe, System Design Primer, Interview Query, Formation.dev |
-| **Hiring / Jobs / Talent Platforms** | LAPRAS, AtCoder Jobs, Indeed, Levels.fyi, Comparably, Y Combinator Hacker News, CoderPad Blog, Naukri Campus, SysDesign Hub, Ardan Labs, InCruiter |
-| **Developer Communities / Repositories** | GitHub Interview Repositories, The Pragmatic Engineer, Stack Overflow Discussions |
+| **China** | 1Point3Acres, NowCoder, Gank Interview, NiuMian Offer |
+| **India** | GeeksforGeeks / GFG Interview Experience, AmbitionBox Interview Experience, Naukri Campus, InterviewBit, InCruiter |
+| **Japan** | LAPRAS, paiza, AtCoder Jobs |
+| **Netherlands** | The Pragmatic Engineer |
+| **Singapore** | Tech Interview Handbook, GreatFrontEnd, Frontend Interview Handbook |
+| **South Korea** | Programmers, goormLEVEL |
+| **United States** | Glassdoor Interview Experience, IGotAnOffer, Reddit Interview Experience, Medium Interview Experience, LinkedIn Interview Experience, InterviewBrew, InterviewRecap, Quora Interview Experience, Blind / TeamBlind Interview Experience, Indeed Company Reviews, LeetCode Discuss Interview Experiences, Fishbowl Interview Experiences, GitHub Interview Repositories, YouTube Interview Experience Videos, HackerRank, Design Gurus, Interviewing.io, Exponent, AlgoMaster, ByteByteGo, Levels.fyi, Comparably, Codemia, Hello Interview, Big Interview, Y Combinator Hacker News, CoderPad Blog, Stack Overflow Discussions, Hashnode Interview Blogs, Scribd Interview Experience, Prepfully Interview Experiences, SysDesign Hub, AMA Interview, Educative.io, DevInterview.io, Ardan Labs, FullStack.Cafe, System Design Primer, Interview Query, Formation.dev |
 
 ---
 
-##  Complete Platform Directory
+## 1. Glassdoor Interview Experience
 
-| No. | Platform | Country / Primary Region | Category | Official Link | What the Platform Does |
-|---:|---|---|---|---|---|
-| 1 | **NowCoder** | China | Technical Interview Practice | [Visit Platform](https://www.nowcoder.com) | Chinese coding interview, programming practice, campus hiring, and technical assessment platform. |
-| 2 | **Gank Interview** | China | Technical Interview Practice | [Visit Platform](https://www.gankinterview.cn) | China-focused interview-preparation platform for technical and job interview practice. |
-| 3 | **NiuMian Offer** | China | Technical Interview Practice | [Visit Platform](https://niumianoffer.com) | Chinese interview-preparation and offer-focused platform for candidates preparing for hiring rounds. |
-| 4 | **LAPRAS** | Japan | Hiring / Jobs / Talent Platforms | [Visit Platform](https://lapras.com) | Japanese talent-matching and engineer profile platform that helps developers showcase technical skills. |
-| 5 | **Programmers** | South Korea | Technical Interview Practice | [Visit Platform](https://programmers.co.kr) | Korean developer hiring, coding test, learning, and programming assessment platform. |
-| 6 | **goormLEVEL** | South Korea | Technical Interview Practice | [Visit Platform](https://level.goorm.io) | Korean coding-test and algorithm-practice platform by goorm for developer skill assessment. |
-| 7 | **paiza** | Japan | Technical Interview Practice | [Visit Platform](https://paiza.jp) | Japanese coding skill-check, programming learning, and engineer recruitment platform. |
-| 8 | **AtCoder Jobs** | Japan | Hiring / Jobs / Talent Platforms | [Visit Platform](https://jobs.atcoder.jp) | Job platform connected to AtCoder, focused on recruiting competitive programmers and engineers. |
-| 9 | **Glassdoor** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.glassdoor.com) | Company reviews, salaries, jobs, and interview experience platform with user-submitted interview reviews. |
-| 10 | **IGotAnOffer** | United States | General | [Visit Platform](https://igotanoffer.com) | Curated interview-preparation guides, mock interview resources, and coaching for major tech and business roles. |
-| 11 | **GeeksforGeeks / GFG Interview Experience** | India | Interview Experience / Community Sources | [Visit Platform](https://www.geeksforgeeks.org/category/experiences/interview-experiences/) | Community-published interview experiences, coding questions, and company-wise preparation articles. |
-| 12 | **Reddit** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.reddit.com) | Community discussion platform where candidates share interview stories, questions, outcomes, and advice. |
-| 13 | **AmbitionBox** | India | Interview Experience / Community Sources | [Visit Platform](https://www.ambitionbox.com) | Indian company reviews, salaries, interview questions, interview experiences, and workplace insights platform. |
-| 14 | **Medium** | United States | Interview Experience / Community Sources | [Visit Platform](https://medium.com) | Publishing platform where candidates and engineers post interview experiences, prep strategies, and career stories. |
-| 15 | **LinkedIn** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.linkedin.com) | Professional networking platform with interview posts, recruiter insights, job-search updates, and career articles. |
-| 16 | **InterviewBrew** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.interviewbrew.com) | Tech interview experience and playbook platform focused on real candidate interview breakdowns. |
-| 17 | **InterviewRecap** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.interviewrecap.com) | Interview-experience platform for sharing and exploring company-wise tech interview recaps. |
-| 18 | **Quora** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.quora.com) | Question-and-answer platform containing candidate-written interview experiences and company-specific advice. |
-| 19 | **Blind / TeamBlind** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.teamblind.com) | Anonymous professional community where verified employees discuss interviews, offers, salaries, and workplace topics. |
-| 20 | **Indeed** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.indeed.com) | Job-search and company-review platform with employee reviews, salaries, Q&A, and hiring-related information. |
-| 21 | **LeetCode Discuss** | United States | Interview Experience / Community Sources | [Visit Platform](https://leetcode.com/discuss/) | Technical interview forum for coding interview experiences, online assessments, company questions, and solutions. |
-| 22 | **Fishbowl** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.fishbowlapp.com) | Professional community platform where users discuss interviews, companies, industries, and career topics. |
-| 23 | **GitHub Interview Repositories** | United States | Developer Communities / Repositories | [Visit Platform](https://github.com) | Open-source repositories containing interview notes, question banks, system design guides, and curated prep resources. |
-| 24 | **YouTube Interview Experience Videos** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.youtube.com) | Video platform where creators share interview journeys, preparation plans, technical rounds, and lessons learned. |
-| 25 | **HackerRank** | United States | Technical Interview Practice | [Visit Platform](https://www.hackerrank.com) | Coding assessment, challenge, certification, and technical screening platform used by candidates and employers. |
-| 26 | **Design Gurus** | United States | Technical Interview Practice | [Visit Platform](https://www.designgurus.io) | Interview-preparation platform focused on system design, coding patterns, object-oriented design, and mock interviews. |
-| 27 | **Interviewing.io** | United States | Technical Interview Practice | [Visit Platform](https://interviewing.io) | Anonymous technical mock-interview platform with practice interviews, feedback, and public mock interview recordings. |
-| 28 | **Exponent** | United States | Technical Interview Practice | [Visit Platform](https://www.tryexponent.com) | Interview-preparation platform for PM, SWE, data, consulting, and other roles with courses and mock interviews. |
-| 29 | **AlgoMaster** | United States | Technical Interview Practice | [Visit Platform](https://algomaster.io) | Technical interview newsletter and learning platform focused on algorithms, system design, and engineering concepts. |
-| 30 | **ByteByteGo** | United States | Technical Interview Practice | [Visit Platform](https://bytebytego.com) | System design and backend architecture learning platform known for visual explanations and interview-prep content. |
-| 31 | **Levels.fyi** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.levels.fyi) | Compensation, leveling, benefits, job, and career data platform with community interview and offer discussions. |
-| 32 | **Comparably** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.comparably.com) | Company culture, salary, leadership, and employer-branding platform useful for company research before interviews. |
-| 33 | **Codemia** | United States | Technical Interview Practice | [Visit Platform](https://codemia.io) | Technical interview-practice platform focused on system design, OOD, DSA, AI feedback, and mock interview workflows. |
-| 34 | **Hello Interview** | United States | Technical Interview Practice | [Visit Platform](https://www.hellointerview.com) | Technical interview-preparation platform with system design, coding, and role-specific guides from experienced interviewers. |
-| 35 | **Big Interview** | United States | General | [Visit Platform](https://biginterview.com) | Behavioral interview-preparation platform for video practice, answer coaching, confidence, and career readiness. |
-| 36 | **The Pragmatic Engineer** | Netherlands | Developer Communities / Repositories | [Visit Platform](https://newsletter.pragmaticengineer.com) | Software engineering industry publication covering hiring, interviews, compensation, engineering culture, and career trends. |
-| 37 | **Y Combinator Hacker News** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://news.ycombinator.com) | Technology discussion community where users discuss hiring processes, interviews, startups, and engineering careers. |
-| 38 | **CoderPad Blog** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://coderpad.io/blog/) | Technical hiring and interview blog by CoderPad covering coding interviews, assessments, and engineering hiring practices. |
-| 39 | **Stack Overflow Discussions** | United States | Developer Communities / Repositories | [Visit Platform](https://stackoverflow.com) | Developer community platform where discussions may include interview prep, programming concepts, and career guidance. |
-| 40 | **Hashnode Interview Blogs** | United States | Interview Experience / Community Sources | [Visit Platform](https://hashnode.com) | Developer blogging platform where engineers publish interview experiences, preparation guides, and technical learning posts. |
-| 41 | **Scribd** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.scribd.com) | Document-sharing platform containing uploaded interview notes, question papers, preparation documents, and career resources. |
-| 42 | **Prepfully** | United States | Interview Experience / Community Sources | [Visit Platform](https://prepfully.com) | Interview-preparation platform with company-wise and role-wise interview questions, experiences, and peer/expert practice. |
-| 43 | **Naukri Campus** | India | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.naukri.com/campus) | Campus hiring and early-career job platform by Naukri for students, freshers, and entry-level candidates. |
-| 44 | **InterviewBit** | India | Technical Interview Practice | [Visit Platform](https://www.interviewbit.com) | Technical interview-preparation platform with coding practice, DSA tracks, programming questions, and interview resources. |
-| 45 | **1Point3Acres** | China | Interview Experience / Community Sources | [Visit Platform](https://www.1point3acres.com) | Chinese-speaking career and study-abroad community with interview experiences, job-search discussions, and offer data. |
-| 46 | **SysDesign Hub** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.sysdesignhub.com) | System-design interview preparation and intelligence platform focused on design questions and adaptive preparation. |
-| 47 | **AMA Interview** | United States | Interview Experience / Community Sources | [Visit Platform](https://www.amainterview.ai) | Interview-experience and interview-preparation platform focused on structured candidate insights and practice. |
-| 48 | **Tech Interview Handbook** | Singapore | Technical Interview Practice | [Visit Platform](https://www.techinterviewhandbook.org) | Free technical interview-preparation handbook covering coding, behavioral, resume, and system design guidance. |
-| 49 | **Educative.io** | United States | Technical Interview Practice | [Visit Platform](https://www.educative.io) | Interactive text-based learning platform for software development, system design, coding interviews, and AI topics. |
-| 50 | **DevInterview.io** | United States | Technical Interview Practice | [Visit Platform](https://www.devinterview.io) | Curated technical interview question-and-answer platform for developers across software engineering topics. |
-| 51 | **Ardan Labs** | United States | Hiring / Jobs / Talent Platforms | [Visit Platform](https://www.ardanlabs.com) | Software engineering consulting and training company focused on Go, Rust, Kubernetes, Docker, AI, and engineering education. |
-| 52 | **GreatFrontEnd** | Singapore | Technical Interview Practice | [Visit Platform](https://www.greatfrontend.com) | Frontend interview-preparation platform for JavaScript, React, UI coding, system design, and frontend questions. |
-| 53 | **Frontend Interview Handbook** | Singapore | Technical Interview Practice | [Visit Platform](https://www.frontendinterviewhandbook.com) | Free frontend interview-preparation handbook covering JavaScript, HTML, CSS, system design, and behavioral prep. |
-| 54 | **FullStack.Cafe** | United States | Technical Interview Practice | [Visit Platform](https://www.fullstack.cafe) | Full-stack developer interview question bank covering frontend, backend, web, architecture, and programming topics. |
-| 55 | **System Design Primer** | United States | Technical Interview Practice | [Visit Platform](https://github.com/donnemartin/system-design-primer) | Popular open-source GitHub repository for learning large-scale system design and architecture interview concepts. |
-| 56 | **Interview Query** | United States | Technical Interview Practice | [Visit Platform](https://www.interviewquery.com) | Data science, analytics, machine learning, and data engineering interview-preparation platform. |
-| 57 | **Formation.dev** | United States | Technical Interview Practice | [Visit Platform](https://formation.dev) | Mentor-led software engineering interview-preparation and career coaching platform for experienced engineers. |
-| 58 | **InCruiter** | India | Hiring / Jobs / Talent Platforms | [Visit Platform](https://incruiter.com) | Interview-as-a-Service platform offering video interviews, technical assessments, interviewer networks, and hiring automation. |
+### Official Platform Link
+
+[https://www.glassdoor.com](https://www.glassdoor.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mostly user-generated. Interview reviews are posted anonymously by candidates and moderated by Glassdoor through automated systems, human review, and user reports.
+
+### Content Type
+
+Mostly semi-structured interview review data. It combines structured fields such as company, role, date, result, difficulty, sentiment, and location with free-text interview descriptions.
+
+### Company / Role / Content
+
+Covers many companies and roles. A typical entry may include role, candidate type, application method, interview process, offer status, difficulty, and questions asked.
+
+### Notes
+
+Useful as a broad interview-experience source because it combines candidate stories with company-level review and salary context.
+
+### Main Content Types
+
+- Interview reviews
+- Interview questions
+- Difficulty ratings
+- Experience sentiment
+- Application source
+- Offer outcome
+- Free-text process descriptions
 
 ---
 
-## 🇨🇳 China-Based / China-Focused Platforms
+## 2. IGotAnOffer
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **NowCoder** | [Visit](https://www.nowcoder.com) | Chinese coding interview, programming practice, campus hiring, and technical assessment platform. |
-| **Gank Interview** | [Visit](https://www.gankinterview.cn) | China-focused interview-preparation platform for technical and job interview practice. |
-| **NiuMian Offer** | [Visit](https://niumianoffer.com) | Chinese interview-preparation and offer-focused platform for candidates preparing for hiring rounds. |
-| **1Point3Acres** | [Visit](https://www.1point3acres.com) | Chinese-speaking career and study-abroad community with interview experiences, job-search discussions, and offer data. |
+### Official Platform Link
 
-## 🇯🇵 Japan-Based Platforms
+[https://igotanoffer.com](https://igotanoffer.com)
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **LAPRAS** | [Visit](https://lapras.com) | Japanese talent-matching and engineer profile platform that helps developers showcase technical skills. |
-| **paiza** | [Visit](https://paiza.jp) | Japanese coding skill-check, programming learning, and engineer recruitment platform. |
-| **AtCoder Jobs** | [Visit](https://jobs.atcoder.jp) | Job platform connected to AtCoder, focused on recruiting competitive programmers and engineers. |
+### Country / Primary Region
 
-## 🇰🇷 South Korea-Based Platforms
+United States
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **Programmers** | [Visit](https://programmers.co.kr) | Korean developer hiring, coding test, learning, and programming assessment platform. |
-| **goormLEVEL** | [Visit](https://level.goorm.io) | Korean coding-test and algorithm-practice platform by goorm for developer skill assessment. |
+### Content Ownership
 
-## 🇮🇳 India-Based Platforms
+Mostly curated/editorial content created by the IGotAnOffer team, often using expert or coach input.
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **GeeksforGeeks / GFG Interview Experience** | [Visit](https://www.geeksforgeeks.org/category/experiences/interview-experiences/) | Community-published interview experiences, coding questions, and company-wise preparation articles. |
-| **AmbitionBox** | [Visit](https://www.ambitionbox.com) | Indian company reviews, salaries, interview questions, interview experiences, and workplace insights platform. |
-| **Naukri Campus** | [Visit](https://www.naukri.com/campus) | Campus hiring and early-career job platform by Naukri for students, freshers, and entry-level candidates. |
-| **InterviewBit** | [Visit](https://www.interviewbit.com) | Technical interview-preparation platform with coding practice, DSA tracks, programming questions, and interview resources. |
-| **InCruiter** | [Visit](https://incruiter.com) | Interview-as-a-Service platform offering video interviews, technical assessments, interviewer networks, and hiring automation. |
+### Content Type
 
-## 🇸🇬 Singapore-Based Platforms
+Semi-structured article and guide content with headings, sections, question lists, frameworks, prep plans, and examples.
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **Tech Interview Handbook** | [Visit](https://www.techinterviewhandbook.org) | Free technical interview-preparation handbook covering coding, behavioral, resume, and system design guidance. |
-| **GreatFrontEnd** | [Visit](https://www.greatfrontend.com) | Frontend interview-preparation platform for JavaScript, React, UI coding, system design, and frontend questions. |
-| **Frontend Interview Handbook** | [Visit](https://www.frontendinterviewhandbook.com) | Free frontend interview-preparation handbook covering JavaScript, HTML, CSS, system design, and behavioral prep. |
+### Company / Role / Content
 
-## 🇺🇸 United States-Based / Global Platforms
+Focuses on major companies and roles such as software engineering, product management, TPM, data, consulting, and engineering management.
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **Glassdoor** | [Visit](https://www.glassdoor.com) | Company reviews, salaries, jobs, and interview experience platform with user-submitted interview reviews. |
-| **IGotAnOffer** | [Visit](https://igotanoffer.com) | Curated interview-preparation guides, mock interview resources, and coaching for major tech and business roles. |
-| **Reddit** | [Visit](https://www.reddit.com) | Community discussion platform where candidates share interview stories, questions, outcomes, and advice. |
-| **Medium** | [Visit](https://medium.com) | Publishing platform where candidates and engineers post interview experiences, prep strategies, and career stories. |
-| **LinkedIn** | [Visit](https://www.linkedin.com) | Professional networking platform with interview posts, recruiter insights, job-search updates, and career articles. |
-| **InterviewBrew** | [Visit](https://www.interviewbrew.com) | Tech interview experience and playbook platform focused on real candidate interview breakdowns. |
-| **InterviewRecap** | [Visit](https://www.interviewrecap.com) | Interview-experience platform for sharing and exploring company-wise tech interview recaps. |
-| **Quora** | [Visit](https://www.quora.com) | Question-and-answer platform containing candidate-written interview experiences and company-specific advice. |
-| **Blind / TeamBlind** | [Visit](https://www.teamblind.com) | Anonymous professional community where verified employees discuss interviews, offers, salaries, and workplace topics. |
-| **Indeed** | [Visit](https://www.indeed.com) | Job-search and company-review platform with employee reviews, salaries, Q&A, and hiring-related information. |
-| **LeetCode Discuss** | [Visit](https://leetcode.com/discuss/) | Technical interview forum for coding interview experiences, online assessments, company questions, and solutions. |
-| **Fishbowl** | [Visit](https://www.fishbowlapp.com) | Professional community platform where users discuss interviews, companies, industries, and career topics. |
-| **GitHub Interview Repositories** | [Visit](https://github.com) | Open-source repositories containing interview notes, question banks, system design guides, and curated prep resources. |
-| **YouTube Interview Experience Videos** | [Visit](https://www.youtube.com) | Video platform where creators share interview journeys, preparation plans, technical rounds, and lessons learned. |
-| **HackerRank** | [Visit](https://www.hackerrank.com) | Coding assessment, challenge, certification, and technical screening platform used by candidates and employers. |
-| **Design Gurus** | [Visit](https://www.designgurus.io) | Interview-preparation platform focused on system design, coding patterns, object-oriented design, and mock interviews. |
-| **Interviewing.io** | [Visit](https://interviewing.io) | Anonymous technical mock-interview platform with practice interviews, feedback, and public mock interview recordings. |
-| **Exponent** | [Visit](https://www.tryexponent.com) | Interview-preparation platform for PM, SWE, data, consulting, and other roles with courses and mock interviews. |
-| **AlgoMaster** | [Visit](https://algomaster.io) | Technical interview newsletter and learning platform focused on algorithms, system design, and engineering concepts. |
-| **ByteByteGo** | [Visit](https://bytebytego.com) | System design and backend architecture learning platform known for visual explanations and interview-prep content. |
-| **Levels.fyi** | [Visit](https://www.levels.fyi) | Compensation, leveling, benefits, job, and career data platform with community interview and offer discussions. |
-| **Comparably** | [Visit](https://www.comparably.com) | Company culture, salary, leadership, and employer-branding platform useful for company research before interviews. |
-| **Codemia** | [Visit](https://codemia.io) | Technical interview-practice platform focused on system design, OOD, DSA, AI feedback, and mock interview workflows. |
-| **Hello Interview** | [Visit](https://www.hellointerview.com) | Technical interview-preparation platform with system design, coding, and role-specific guides from experienced interviewers. |
-| **Big Interview** | [Visit](https://biginterview.com) | Behavioral interview-preparation platform for video practice, answer coaching, confidence, and career readiness. |
-| **Y Combinator Hacker News** | [Visit](https://news.ycombinator.com) | Technology discussion community where users discuss hiring processes, interviews, startups, and engineering careers. |
-| **CoderPad Blog** | [Visit](https://coderpad.io/blog/) | Technical hiring and interview blog by CoderPad covering coding interviews, assessments, and engineering hiring practices. |
-| **Stack Overflow Discussions** | [Visit](https://stackoverflow.com) | Developer community platform where discussions may include interview prep, programming concepts, and career guidance. |
-| **Hashnode Interview Blogs** | [Visit](https://hashnode.com) | Developer blogging platform where engineers publish interview experiences, preparation guides, and technical learning posts. |
-| **Scribd** | [Visit](https://www.scribd.com) | Document-sharing platform containing uploaded interview notes, question papers, preparation documents, and career resources. |
-| **Prepfully** | [Visit](https://prepfully.com) | Interview-preparation platform with company-wise and role-wise interview questions, experiences, and peer/expert practice. |
-| **SysDesign Hub** | [Visit](https://www.sysdesignhub.com) | System-design interview preparation and intelligence platform focused on design questions and adaptive preparation. |
-| **AMA Interview** | [Visit](https://www.amainterview.ai) | Interview-experience and interview-preparation platform focused on structured candidate insights and practice. |
-| **Educative.io** | [Visit](https://www.educative.io) | Interactive text-based learning platform for software development, system design, coding interviews, and AI topics. |
-| **DevInterview.io** | [Visit](https://www.devinterview.io) | Curated technical interview question-and-answer platform for developers across software engineering topics. |
-| **Ardan Labs** | [Visit](https://www.ardanlabs.com) | Software engineering consulting and training company focused on Go, Rust, Kubernetes, Docker, AI, and engineering education. |
-| **FullStack.Cafe** | [Visit](https://www.fullstack.cafe) | Full-stack developer interview question bank covering frontend, backend, web, architecture, and programming topics. |
-| **System Design Primer** | [Visit](https://github.com/donnemartin/system-design-primer) | Popular open-source GitHub repository for learning large-scale system design and architecture interview concepts. |
-| **Interview Query** | [Visit](https://www.interviewquery.com) | Data science, analytics, machine learning, and data engineering interview-preparation platform. |
-| **Formation.dev** | [Visit](https://formation.dev) | Mentor-led software engineering interview-preparation and career coaching platform for experienced engineers. |
+### Notes
 
-## 🇳🇱 Netherlands-Based Platform
+Best used for structured interview preparation rather than raw candidate-submitted interview reviews.
 
-| Platform | Official Link | Explanation |
-|---|---|---|
-| **The Pragmatic Engineer** | [Visit](https://newsletter.pragmaticengineer.com) | Software engineering industry publication covering hiring, interviews, compensation, engineering culture, and career trends. |
+### Main Content Types
+
+- Company guides
+- Role-specific guides
+- Question banks
+- Sample answers
+- Mock interview resources
+- Prep frameworks
 
 ---
+
+## 3. GeeksforGeeks / GFG Interview Experience
+
+### Official Platform Link
+
+[https://www.geeksforgeeks.org/category/experiences/interview-experiences/](https://www.geeksforgeeks.org/category/experiences/interview-experiences/)
+
+### Country / Primary Region
+
+India
+
+### Content Ownership
+
+Mainly user/community-submitted interview experiences published in article format and organized by GeeksforGeeks.
+
+### Content Type
+
+Semi-structured articles with titles, authors, tags, dates, company names, headings, round-wise sections, and free-text descriptions.
+
+### Company / Role / Content
+
+Covers many companies and roles, especially software engineering and campus/fresher recruitment processes.
+
+### Notes
+
+Strong source for Indian campus hiring, coding rounds, technical rounds, HR rounds, and candidate preparation tips.
+
+### Main Content Types
+
+- Company interview experiences
+- Round-wise interview stories
+- Coding questions
+- Technical rounds
+- HR rounds
+- Preparation tips
+
+---
+
+## 4. Reddit Interview Experience
+
+### Official Platform Link
+
+[https://www.reddit.com](https://www.reddit.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly user-generated posts and comments written in relevant subreddits and moderated by communities.
+
+### Content Type
+
+Mostly unstructured or semi-structured social discussion content. Metadata is structured, while post bodies and comments are free text.
+
+### Company / Role / Content
+
+Can cover almost any company, role, geography, and industry depending on subreddit activity.
+
+### Notes
+
+Useful for candid stories, discussions, comments, follow-up advice, and real-time candidate sentiment.
+
+### Main Content Types
+
+- Personal interview stories
+- Question dumps
+- Offer/rejection threads
+- Company discussions
+- Recruiter-process complaints
+- Salary discussions
+
+---
+
+## 5. AmbitionBox Interview Experience
+
+### Official Platform Link
+
+[https://www.ambitionbox.com](https://www.ambitionbox.com)
+
+### Country / Primary Region
+
+India
+
+### Content Ownership
+
+Mainly user/contributor-submitted and platform-moderated company, salary, and interview content.
+
+### Content Type
+
+Semi-structured review and interview data with fields such as company, role, experience level, rounds, difficulty, status, and date.
+
+### Company / Role / Content
+
+Covers many companies, especially Indian employers, with interview questions, advice, difficulty, and candidate tips.
+
+### Notes
+
+Strong source for India-focused interview experiences and company research.
+
+### Main Content Types
+
+- Interview questions
+- Interview rounds
+- Company reviews
+- Salary data
+- Difficulty ratings
+- Candidate advice
+
+---
+
+## 6. Medium Interview Experience
+
+### Official Platform Link
+
+[https://medium.com](https://medium.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mostly author-written blog posts by candidates, engineers, students, and creators.
+
+### Content Type
+
+Article/blog format with structured metadata and free-text interview narratives.
+
+### Company / Role / Content
+
+Can cover many companies and roles because anyone can publish interview stories and preparation journeys.
+
+### Notes
+
+Best for detailed personal stories, reflection posts, and long-form preparation journeys.
+
+### Main Content Types
+
+- Personal interview blogs
+- Company-specific journeys
+- Preparation strategies
+- Offer/rejection reflections
+- Resource lists
+
+---
+
+## 7. LinkedIn Interview Experience
+
+### Official Platform Link
+
+[https://www.linkedin.com](https://www.linkedin.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly user-generated professional posts, articles, newsletters, comments, and reposts.
+
+### Content Type
+
+Mostly unstructured or semi-structured social/professional content with author, profile, time, reactions, comments, and hashtags.
+
+### Company / Role / Content
+
+Covers many companies and roles through candidate posts, recruiter posts, company pages, and professional discussions.
+
+### Notes
+
+Useful for job-search updates, interview journeys, recruiter insights, and networking context.
+
+### Main Content Types
+
+- Interview journey posts
+- Job-search updates
+- Recruiter-process experiences
+- Preparation advice
+- Company hiring tips
+
+---
+
+## 8. InterviewBrew
+
+### Official Platform Link
+
+[https://www.interviewbrew.com](https://www.interviewbrew.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Appears to use candidate-submitted or real interview experience content that is reviewed and packaged by the platform.
+
+### Content Type
+
+Semi-structured interview playbook content with company, role, level, date, round breakdowns, questions, and takeaways.
+
+### Company / Role / Content
+
+Focuses mainly on major tech companies and technical roles.
+
+### Notes
+
+Useful for detailed round-by-round tech interview preparation.
+
+### Main Content Types
+
+- Tech interview playbooks
+- Round-by-round details
+- Questions
+- Strategies
+- Challenges
+- Takeaways
+
+---
+
+## 9. InterviewRecap
+
+### Official Platform Link
+
+[https://www.interviewrecap.com](https://www.interviewrecap.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Appears to be user-submitted, AI-assisted, curated, and/or verified by the platform.
+
+### Content Type
+
+Semi-structured content with fields such as company, job title, selection status, process timing, and free-text experience.
+
+### Company / Role / Content
+
+Focuses on tech-company interview experiences and candidate recaps.
+
+### Notes
+
+Useful for structured interview-experience collection and comparison.
+
+### Main Content Types
+
+- Interview recaps
+- Company-wise experiences
+- Role-wise interview details
+- Selection status
+- Round-wise questions
+
+---
+
+## 10. Quora Interview Experience
+
+### Official Platform Link
+
+[https://www.quora.com](https://www.quora.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly user-written answers, posts, and comments.
+
+### Content Type
+
+Q&A format with structured metadata and mostly free-text answers.
+
+### Company / Role / Content
+
+Can contain interview experiences for almost any company or role depending on user contributions.
+
+### Notes
+
+Useful for question-based discovery of specific company interview experiences and advice.
+
+### Main Content Types
+
+- Q&A interview answers
+- Company-specific stories
+- Preparation advice
+- Offer/rejection stories
+- Technical and HR round descriptions
+
+---
+
+## 11. Blind / TeamBlind Interview Experience
+
+### Official Platform Link
+
+[https://www.teamblind.com](https://www.teamblind.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly anonymous user-written posts and comments from verified professionals.
+
+### Content Type
+
+Unstructured professional community discussion content with structured metadata such as post title, company/community, likes, and comments.
+
+### Company / Role / Content
+
+Covers tech, finance, healthcare, automotive, consulting, large enterprises, and other industries.
+
+### Notes
+
+Useful for anonymous interview discussions, compensation context, referrals, and negotiation advice.
+
+### Main Content Types
+
+- Anonymous interview posts
+- Interview-prep threads
+- Referral requests
+- Salary discussions
+- Offer negotiation
+- Hiring-freeze discussions
+
+---
+
+## 12. Indeed Company Reviews
+
+### Official Platform Link
+
+[https://www.indeed.com](https://www.indeed.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly written by current and former employees/users.
+
+### Content Type
+
+Semi-structured company review and employment data.
+
+### Company / Role / Content
+
+Covers company-wise employee reviews, job titles, locations, ratings, culture, pay, management, and related jobs.
+
+### Notes
+
+More useful for company research than detailed interview experience collection.
+
+### Main Content Types
+
+- Company reviews
+- Employee ratings
+- Workplace feedback
+- Salaries
+- Company Q&A
+- Related jobs
+
+---
+
+## 13. LeetCode Discuss Interview Experiences
+
+### Official Platform Link
+
+[https://leetcode.com/discuss/](https://leetcode.com/discuss/)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly user-written community posts published in LeetCode Discuss.
+
+### Content Type
+
+Semi-structured discussion posts with title, author, date, votes, comments, tags, and free-text body.
+
+### Company / Role / Content
+
+Mostly technical/SWE interview content for companies like Google, Amazon, Meta, Microsoft, Apple, Uber, TikTok, and startups.
+
+### Notes
+
+Strong source for coding interview questions, online assessments, system design prompts, and technical round experiences.
+
+### Main Content Types
+
+- Coding interview experiences
+- Online assessment reports
+- Company-wise questions
+- System design prompts
+- Solution discussions
+- Offer/rejection stories
+
+---
+
+## 14. Fishbowl Interview Experiences
+
+### Official Platform Link
+
+[https://www.fishbowlapp.com](https://www.fishbowlapp.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly user-generated professional discussions inside industry, company, or community bowls.
+
+### Content Type
+
+Community discussion format with structured metadata and unstructured post text.
+
+### Company / Role / Content
+
+Can include interview posts across many industries, companies, and roles.
+
+### Notes
+
+Useful for professional community conversations around interviews and career topics.
+
+### Main Content Types
+
+- Interview posts
+- Industry discussions
+- Company discussions
+- Salary/negotiation context
+- Professional comments
+
+---
+
+## 15. GitHub Interview Repositories
+
+### Official Platform Link
+
+[https://github.com](https://github.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Created and maintained by individual users, open-source contributors, and organizations.
+
+### Content Type
+
+Mostly semi-structured Markdown, folders, tables, README files, issues, pull requests, and curated lists.
+
+### Company / Role / Content
+
+Commonly covers SWE, frontend, backend, DSA, system design, behavioral prep, and company-wise technical questions.
+
+### Notes
+
+Useful for open-source technical preparation resources and curated interview repositories.
+
+### Main Content Types
+
+- Question banks
+- DSA notes
+- System design guides
+- Company-wise lists
+- Behavioral prep
+- Roadmaps
+
+---
+
+## 16. YouTube Interview Experience Videos
+
+### Official Platform Link
+
+[https://www.youtube.com](https://www.youtube.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly creator/user-generated content from candidates, educators, recruiters, and companies.
+
+### Content Type
+
+Video/audio content with metadata such as title, channel, upload date, views, and comments.
+
+### Company / Role / Content
+
+Often includes candidate background, company, role, online assessment, technical rounds, HR rounds, salary/package, and preparation strategy.
+
+### Notes
+
+Useful for long-form candidate stories and explanation-based interview preparation.
+
+### Main Content Types
+
+- Interview videos
+- Preparation plans
+- Round explanations
+- Resume tips
+- Mistakes to avoid
+- Candidate journeys
+
+---
+
+## 17. HackerRank
+
+### Official Platform Link
+
+[https://www.hackerrank.com](https://www.hackerrank.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created technical challenges, employer assessments, and user submissions for coding problems.
+
+### Content Type
+
+Structured and semi-structured technical content with problem statements, constraints, input/output, samples, submissions, and discussions.
+
+### Company / Role / Content
+
+Used for coding assessments, certifications, contests, and employer technical screening.
+
+### Notes
+
+More focused on coding assessments and skills practice than candidate interview stories.
+
+### Main Content Types
+
+- Coding challenges
+- Problem discussions
+- Certifications
+- Contests
+- Interview prep kits
+- Employer assessments
+
+---
+
+## 18. Design Gurus
+
+### Official Platform Link
+
+[https://www.designgurus.io](https://www.designgurus.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mostly platform-created course and interview-preparation content.
+
+### Content Type
+
+Structured course content with modules, lessons, diagrams, patterns, examples, exercises, and quizzes.
+
+### Company / Role / Content
+
+Targets software engineers, backend/frontend engineers, system design candidates, and engineering manager candidates.
+
+### Notes
+
+Strong for system design, coding patterns, and structured technical interview preparation.
+
+### Main Content Types
+
+- System design courses
+- Coding interview patterns
+- Object-oriented design
+- Behavioral prep
+- Mock interviews
+- Practice exercises
+
+---
+
+## 19. Interviewing.io
+
+### Official Platform Link
+
+[https://interviewing.io](https://interviewing.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-run mock interview service with interviewer, candidate, feedback, and public recording content.
+
+### Content Type
+
+Structured session data and semi-structured public mock interview recordings/blog content.
+
+### Company / Role / Content
+
+Focuses on coding, system design, machine learning, behavioral interviews, and mock technical sessions.
+
+### Notes
+
+Useful for realistic anonymous mock interviews and feedback-driven preparation.
+
+### Main Content Types
+
+- Mock sessions
+- Recordings
+- Transcripts
+- Feedback notes
+- Scores/ratings
+- Public mock interview videos
+
+---
+
+## 20. Exponent
+
+### Official Platform Link
+
+[https://www.tryexponent.com](https://www.tryexponent.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mix of platform-created, expert-created, and community-generated preparation content.
+
+### Content Type
+
+Semi-structured content with courses, company guides, interview questions, sample answers, video lessons, and mock practice.
+
+### Company / Role / Content
+
+Supports PM, SWE, data, consulting, and other interview paths.
+
+### Notes
+
+Useful for role-specific structured preparation and mock interview practice.
+
+### Main Content Types
+
+- Courses
+- Company guides
+- Interview questions
+- Sample answers
+- Mock interviews
+- AI practice
+
+---
+
+## 21. AlgoMaster
+
+### Official Platform Link
+
+[https://algomaster.io](https://algomaster.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mostly creator-authored newsletter and educational content.
+
+### Content Type
+
+Technical newsletter and article-library format.
+
+### Company / Role / Content
+
+Focuses on coding interviews, DSA, system design, software engineering, and career growth.
+
+### Notes
+
+Useful as an engineering interview knowledge base rather than a raw interview-review site.
+
+### Main Content Types
+
+- DSA articles
+- System design articles
+- Engineering concepts
+- Interview newsletter
+- Career growth content
+
+---
+
+## 22. ByteByteGo
+
+### Official Platform Link
+
+[https://bytebytego.com](https://bytebytego.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mostly proprietary, creator-authored, and platform-owned technical education content.
+
+### Content Type
+
+Structured and semi-structured visual explanations, courses, newsletters, videos, diagrams, and system design guides.
+
+### Company / Role / Content
+
+Focuses on backend architecture, APIs, databases, caching, queues, distributed systems, and system design interviews.
+
+### Notes
+
+Strong source for visual system design and backend architecture preparation.
+
+### Main Content Types
+
+- System design
+- Distributed systems
+- Backend architecture
+- Visual explanations
+- Engineering videos
+- Technical newsletters
+
+---
+
+## 23. Levels.fyi
+
+### Official Platform Link
+
+[https://www.levels.fyi](https://www.levels.fyi)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Community-generated and platform-owned career data.
+
+### Content Type
+
+Structured compensation, leveling, benefits, jobs, and community discussion data.
+
+### Company / Role / Content
+
+Covers salary, levels, benefits, negotiation, job posts, and some interview-related community discussions.
+
+### Notes
+
+Useful when interview experiences need salary, level, and negotiation context.
+
+### Main Content Types
+
+- Compensation data
+- Leveling data
+- Benefits
+- Jobs
+- Negotiation data
+- Community interview discussions
+
+---
+
+## 24. Comparably
+
+### Official Platform Link
+
+[https://www.comparably.com](https://www.comparably.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Company culture and salary data from employee feedback and platform organization.
+
+### Content Type
+
+Structured company profiles, rankings, salary data, culture ratings, and employer-branding pages.
+
+### Company / Role / Content
+
+Useful for researching company culture, salaries, leadership, and employer reputation before interviews.
+
+### Notes
+
+Not primarily an interview-experience platform, but helpful for company research.
+
+### Main Content Types
+
+- Company culture data
+- Salary data
+- Employer branding
+- Leadership ratings
+- Workplace rankings
+
+---
+
+## 25. Codemia
+
+### Official Platform Link
+
+[https://codemia.io](https://codemia.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-owned interactive technical interview-practice content.
+
+### Content Type
+
+Structured practice workflow with design submissions, AI feedback, mock interviews, and topic categories.
+
+### Company / Role / Content
+
+Focuses on system design, object-oriented design, DSA, agentic AI, mock interviews, and courses.
+
+### Notes
+
+More like a technical practice platform than a blog or review site.
+
+### Main Content Types
+
+- System design practice
+- OOD practice
+- DSA
+- AI feedback
+- Mock interviews
+- Courses
+
+---
+
+## 26. Hello Interview
+
+### Official Platform Link
+
+[https://www.hellointerview.com](https://www.hellointerview.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Mainly platform-owned and expert-created content from experienced technical interviewers.
+
+### Content Type
+
+Structured and semi-structured guides, blogs, examples, and preparation resources.
+
+### Company / Role / Content
+
+Focuses on coding interviews, system design interviews, and role-specific technical preparation.
+
+### Notes
+
+Useful for structured system design and technical interview prep.
+
+### Main Content Types
+
+- Interview guides
+- System design prep
+- Coding prep
+- Blogs
+- Practice content
+- Expert guidance
+
+---
+
+## 27. Big Interview
+
+### Official Platform Link
+
+[https://biginterview.com](https://biginterview.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+User practice answers and recordings are user-generated; AI scoring and guidance are platform-generated.
+
+### Content Type
+
+Structured behavioral interview preparation and video practice platform.
+
+### Company / Role / Content
+
+Targets general job interviews, behavioral interviews, video interviews, confidence, communication, and career readiness.
+
+### Notes
+
+Best for behavioral and communication preparation rather than coding interviews.
+
+### Main Content Types
+
+- Behavioral practice
+- Video interview practice
+- AI feedback
+- Resume improvement
+- Salary negotiation
+- Career readiness
+
+---
+
+## 28. The Pragmatic Engineer
+
+### Official Platform Link
+
+[https://newsletter.pragmaticengineer.com](https://newsletter.pragmaticengineer.com)
+
+### Country / Primary Region
+
+Netherlands
+
+### Content Ownership
+
+Author-created software engineering industry publication.
+
+### Content Type
+
+Long-form newsletter and article content about engineering careers, hiring, Big Tech, compensation, startups, and org practices.
+
+### Company / Role / Content
+
+Useful for understanding hiring trends, interview changes, compensation, and engineering industry dynamics.
+
+### Notes
+
+Not an interview database, but valuable for industry insight and career context.
+
+### Main Content Types
+
+- Industry analysis
+- Hiring trends
+- Career growth
+- Compensation coverage
+- Engineering culture
+- Interview trend analysis
+
+---
+
+## 29. Y Combinator Hacker News
+
+### Official Platform Link
+
+[https://news.ycombinator.com](https://news.ycombinator.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Community-submitted links and discussions moderated by Hacker News community systems.
+
+### Content Type
+
+Discussion forum with structured metadata and free-text comments.
+
+### Company / Role / Content
+
+Covers startup hiring, engineering interviews, developer careers, technical discussions, and industry news.
+
+### Notes
+
+Useful for discussion and commentary rather than structured interview records.
+
+### Main Content Types
+
+- Hiring discussions
+- Startup discussions
+- Engineering career threads
+- Technical debates
+- News commentary
+
+---
+
+## 30. CoderPad Blog
+
+### Official Platform Link
+
+[https://coderpad.io/blog/](https://coderpad.io/blog/)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Company-created blog and technical hiring resources.
+
+### Content Type
+
+Article-style content about technical interviews, hiring workflows, candidate assessment, and coding interviews.
+
+### Company / Role / Content
+
+Useful for understanding technical interview structure and employer-side hiring practices.
+
+### Notes
+
+Helpful as a reference for coding interview design and technical hiring process.
+
+### Main Content Types
+
+- Technical hiring articles
+- Coding interview resources
+- Assessment guidance
+- Recruiting process articles
+- Employer best practices
+
+---
+
+## 31. Stack Overflow Discussions
+
+### Official Platform Link
+
+[https://stackoverflow.com](https://stackoverflow.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Developer community-generated discussions and Q&A-style knowledge.
+
+### Content Type
+
+Developer discussion content with structured metadata and free-text conversations.
+
+### Company / Role / Content
+
+Useful for programming concepts, developer opinions, interview prep, and career guidance discussions.
+
+### Notes
+
+Not primarily an interview database, but helpful for developer knowledge and community insight.
+
+### Main Content Types
+
+- Developer discussions
+- Programming concepts
+- Career guidance
+- Interview prep discussions
+- Technical opinions
+
+---
+
+## 32. Hashnode Interview Blogs
+
+### Official Platform Link
+
+[https://hashnode.com](https://hashnode.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+User-generated developer blog posts written by engineers and candidates.
+
+### Content Type
+
+Blog/article format with structured metadata and free-text technical narratives.
+
+### Company / Role / Content
+
+Covers interview experiences, preparation strategies, coding-round questions, project discussions, and career journeys.
+
+### Notes
+
+Useful for developer-written interview and preparation articles.
+
+### Main Content Types
+
+- Interview blogs
+- Coding questions
+- Technical round stories
+- Preparation resources
+- Career journeys
+
+---
+
+## 33. Scribd Interview Experience
+
+### Official Platform Link
+
+[https://www.scribd.com](https://www.scribd.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+User-uploaded documents and platform-hosted document-sharing content.
+
+### Content Type
+
+Document-sharing format with PDFs, notes, question papers, and preparation documents.
+
+### Company / Role / Content
+
+May include company-wise interview experiences, question papers, HR questions, and preparation notes.
+
+### Notes
+
+Useful as a document repository, but quality and structure can vary strongly.
+
+### Main Content Types
+
+- Uploaded documents
+- Interview notes
+- Question papers
+- Preparation guides
+- Career resources
+
+---
+
+## 34. Prepfully Interview Experiences
+
+### Official Platform Link
+
+[https://prepfully.com](https://prepfully.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created and user/community-informed interview-preparation content.
+
+### Content Type
+
+Semi-structured company-wise and role-wise preparation content.
+
+### Company / Role / Content
+
+Provides interview questions, preparation tips, company insights, and practice support.
+
+### Notes
+
+Useful for company-wise interview preparation and role-specific insights.
+
+### Main Content Types
+
+- Company guides
+- Role guides
+- Interview questions
+- Preparation tips
+- Mock interview support
+
+---
+
+## 35. Naukri Campus
+
+### Official Platform Link
+
+[https://www.naukri.com/campus](https://www.naukri.com/campus)
+
+### Country / Primary Region
+
+India
+
+### Content Ownership
+
+Platform-owned campus hiring and fresher job content by Naukri.
+
+### Content Type
+
+Structured job, campus hiring, and early-career candidate content.
+
+### Company / Role / Content
+
+Targets students, freshers, and entry-level hiring in India.
+
+### Notes
+
+Useful for campus recruitment and fresher hiring opportunities.
+
+### Main Content Types
+
+- Campus jobs
+- Fresher jobs
+- Entry-level hiring
+- Career resources
+- Student opportunities
+
+---
+
+## 36. InterviewBit
+
+### Official Platform Link
+
+[https://www.interviewbit.com](https://www.interviewbit.com)
+
+### Country / Primary Region
+
+India
+
+### Content Ownership
+
+Platform-created technical preparation content and user practice activity.
+
+### Content Type
+
+Structured coding practice, tracks, questions, and interview-preparation modules.
+
+### Company / Role / Content
+
+Focuses on DSA, programming, technical interview preparation, and software engineering interview practice.
+
+### Notes
+
+Useful for coding interview preparation and structured practice.
+
+### Main Content Types
+
+- DSA practice
+- Coding questions
+- Programming tracks
+- Interview prep
+- Technical resources
+
+---
+
+## 37. 1Point3Acres
+
+### Official Platform Link
+
+[https://www.1point3acres.com](https://www.1point3acres.com)
+
+### Country / Primary Region
+
+China
+
+### Content Ownership
+
+Community-generated content from Chinese-speaking users.
+
+### Content Type
+
+Forum/community content with posts, comments, metadata, and semi-structured interview or career discussions.
+
+### Company / Role / Content
+
+Covers study abroad, job search, interviews, offers, immigration, and career discussions.
+
+### Notes
+
+Useful for Chinese-speaking candidate experiences and job-search discussions.
+
+### Main Content Types
+
+- Interview experiences
+- Offer discussions
+- Job-search threads
+- Study abroad content
+- Career advice
+
+---
+
+## 38. SysDesign Hub
+
+### Official Platform Link
+
+[https://www.sysdesignhub.com](https://www.sysdesignhub.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created system-design preparation and intelligence content.
+
+### Content Type
+
+Structured system design question and preparation platform.
+
+### Company / Role / Content
+
+Connects coding behavior or preparation signals with company interview patterns and system design trends.
+
+### Notes
+
+Useful for system-design question tracking and adaptive preparation.
+
+### Main Content Types
+
+- System design questions
+- Company interview patterns
+- Adaptive preparation
+- Design trends
+- Interview intelligence
+
+---
+
+## 39. AMA Interview
+
+### Official Platform Link
+
+[https://www.amainterview.ai](https://www.amainterview.ai)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Interview-experience and preparation platform with structured candidate insights.
+
+### Content Type
+
+Semi-structured interview experience and preparation content.
+
+### Company / Role / Content
+
+Useful for interview experience collection, interview practice, and structured candidate learning.
+
+### Notes
+
+Best positioned as an interview intelligence and preparation platform.
+
+### Main Content Types
+
+- Interview experiences
+- Candidate insights
+- Practice content
+- Question patterns
+- Preparation workflows
+
+---
+
+## 40. Tech Interview Handbook
+
+### Official Platform Link
+
+[https://www.techinterviewhandbook.org](https://www.techinterviewhandbook.org)
+
+### Country / Primary Region
+
+Singapore
+
+### Content Ownership
+
+Author-created and community-maintained technical interview-preparation content.
+
+### Content Type
+
+Structured handbook-style content with guides, checklists, coding prep, behavioral prep, and system design resources.
+
+### Company / Role / Content
+
+Targets software engineering candidates preparing for technical interviews.
+
+### Notes
+
+Strong free resource for technical interview preparation.
+
+### Main Content Types
+
+- Coding prep
+- Behavioral prep
+- Resume guidance
+- System design guidance
+- Interview checklists
+
+---
+
+## 41. Educative.io
+
+### Official Platform Link
+
+[https://www.educative.io](https://www.educative.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created interactive learning content by educators and technical authors.
+
+### Content Type
+
+Structured text-based interactive courses, lessons, quizzes, and coding environments.
+
+### Company / Role / Content
+
+Covers system design, coding interviews, AI, cloud, backend/frontend development, and software engineering topics.
+
+### Notes
+
+Useful for structured, interactive interview and engineering learning.
+
+### Main Content Types
+
+- Interactive courses
+- System design prep
+- Coding interview prep
+- AI courses
+- Cloud courses
+- Developer learning
+
+---
+
+## 42. DevInterview.io
+
+### Official Platform Link
+
+[https://www.devinterview.io](https://www.devinterview.io)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Curated platform-created technical interview question-and-answer content.
+
+### Content Type
+
+Structured question bank with detailed answers and topic organization.
+
+### Company / Role / Content
+
+Covers full-stack development, DSA, system design, data science, machine learning, and behavioral questions.
+
+### Notes
+
+Useful as a curated technical question-answer catalog.
+
+### Main Content Types
+
+- Technical questions
+- Detailed answers
+- Topic catalogs
+- Full-stack prep
+- System design prep
+- Behavioral questions
+
+---
+
+## 43. Ardan Labs
+
+### Official Platform Link
+
+[https://www.ardanlabs.com](https://www.ardanlabs.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Company-created engineering consulting, training, and education content.
+
+### Content Type
+
+Training, consulting, blog, course, and engineering education content.
+
+### Company / Role / Content
+
+Focuses on Go, Rust, Kubernetes, Docker, AI implementation, consulting, and staff augmentation.
+
+### Notes
+
+Useful for engineering training and advanced technical education rather than interview experience collection.
+
+### Main Content Types
+
+- Go training
+- Rust training
+- Kubernetes training
+- Docker training
+- Consulting
+- Engineering education
+
+---
+
+## 44. GreatFrontEnd
+
+### Official Platform Link
+
+[https://www.greatfrontend.com](https://www.greatfrontend.com)
+
+### Country / Primary Region
+
+Singapore
+
+### Content Ownership
+
+Platform-created and expert-created frontend interview-preparation content.
+
+### Content Type
+
+Structured frontend interview practice platform with coding questions, UI components, quizzes, and company-specific prep.
+
+### Company / Role / Content
+
+Targets frontend engineers preparing for JavaScript, React, UI coding, system design, and frontend interviews.
+
+### Notes
+
+Strong specialized resource for frontend interview preparation.
+
+### Main Content Types
+
+- Frontend coding
+- JavaScript questions
+- React questions
+- UI components
+- Frontend system design
+- Quizzes
+
+---
+
+## 45. Frontend Interview Handbook
+
+### Official Platform Link
+
+[https://www.frontendinterviewhandbook.com](https://www.frontendinterviewhandbook.com)
+
+### Country / Primary Region
+
+Singapore
+
+### Content Ownership
+
+Author-created and open-source/community-maintained frontend interview-preparation resource.
+
+### Content Type
+
+Structured handbook with guides, question lists, explanations, recommended answers, and checklists.
+
+### Company / Role / Content
+
+Targets frontend engineering candidates preparing for JavaScript, HTML, CSS, coding, system design, and behavioral rounds.
+
+### Notes
+
+Strong free/open-source resource for frontend interview prep.
+
+### Main Content Types
+
+- Frontend guides
+- JavaScript prep
+- HTML/CSS prep
+- System design
+- Behavioral prep
+- Interview checklists
+
+---
+
+## 46. FullStack.Cafe
+
+### Official Platform Link
+
+[https://www.fullstack.cafe](https://www.fullstack.cafe)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Curated technical interview question content.
+
+### Content Type
+
+Question-bank format for full-stack developer interview preparation.
+
+### Company / Role / Content
+
+Covers frontend, backend, web development, architecture, programming, and full-stack interview topics.
+
+### Notes
+
+Useful as a competitor/reference for full-stack interview topic taxonomy and question structure.
+
+### Main Content Types
+
+- Full-stack questions
+- Frontend questions
+- Backend questions
+- Architecture questions
+- Programming questions
+- Concise answers
+
+---
+
+## 47. System Design Primer
+
+### Official Platform Link
+
+[https://github.com/donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Open-source community-maintained GitHub repository.
+
+### Content Type
+
+Structured Markdown repository with explanations, diagrams, topics, and system design study material.
+
+### Company / Role / Content
+
+Targets software engineers preparing for large-scale system design interviews.
+
+### Notes
+
+One of the most popular open-source system design preparation resources.
+
+### Main Content Types
+
+- System design concepts
+- Architecture patterns
+- Scalability notes
+- Diagrams
+- Study guides
+- Open-source prep
+
+---
+
+## 48. Interview Query
+
+### Official Platform Link
+
+[https://www.interviewquery.com](https://www.interviewquery.com)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created and community-informed data interview preparation content.
+
+### Content Type
+
+Structured question banks, company guides, learning paths, lessons, take-home challenges, and salary/job data.
+
+### Company / Role / Content
+
+Focuses mainly on data science, data analytics, machine learning, and data engineering interviews.
+
+### Notes
+
+Strong source for data-related interview preparation.
+
+### Main Content Types
+
+- Data science questions
+- Analytics questions
+- ML questions
+- Company guides
+- Take-home challenges
+- Mock interviews
+
+---
+
+## 49. Formation.dev
+
+### Official Platform Link
+
+[https://formation.dev](https://formation.dev)
+
+### Country / Primary Region
+
+United States
+
+### Content Ownership
+
+Platform-created mentor-led interview and career coaching content.
+
+### Content Type
+
+Structured coaching and interview-preparation program with mentors, practice, and personalized learning.
+
+### Company / Role / Content
+
+Targets experienced engineers preparing for mid-level to senior frontend, full-stack, and backend SWE roles.
+
+### Notes
+
+Useful for high-touch technical interview preparation and career coaching.
+
+### Main Content Types
+
+- Mentor-led prep
+- Coding interviews
+- System design interviews
+- Recruiter screens
+- Hiring manager prep
+- Negotiation coaching
+
+---
+
+## 50. InCruiter
+
+### Official Platform Link
+
+[https://incruiter.com](https://incruiter.com)
+
+### Country / Primary Region
+
+India
+
+### Content Ownership
+
+Company-created hiring and Interview-as-a-Service platform.
+
+### Content Type
+
+Structured hiring, video interview, AI interview, pair programming, coding assessment, and scheduling software.
+
+### Company / Role / Content
+
+Used by employers for interview outsourcing, technical assessments, and hiring automation.
+
+### Notes
+
+More employer-side hiring infrastructure than candidate interview-experience source.
+
+### Main Content Types
+
+- Interview as a Service
+- Video interviews
+- AI interview software
+- Pair programming
+- Coding assessments
+- Interview scheduling
+
+---
+
+## 51. NowCoder
+
+### Official Platform Link
+
+[https://www.nowcoder.com](https://www.nowcoder.com)
+
+### Country / Primary Region
+
+China
+
+### Content Ownership
+
+Platform-created and user/community-generated coding, interview, and hiring content.
+
+### Content Type
+
+Structured coding practice, question banks, discussion, company preparation, and recruitment content.
+
+### Company / Role / Content
+
+Popular in China for coding practice, technical interviews, campus recruitment, and developer hiring.
+
+### Notes
+
+Strong China-focused technical interview and coding preparation platform.
+
+### Main Content Types
+
+- Coding practice
+- Interview questions
+- Company prep
+- Campus hiring
+- Online assessments
+- Developer community
+
+---
+
+## 52. Gank Interview
+
+### Official Platform Link
+
+[https://www.gankinterview.cn](https://www.gankinterview.cn)
+
+### Country / Primary Region
+
+China
+
+### Content Ownership
+
+Platform-created interview preparation content.
+
+### Content Type
+
+Interview-preparation and technical learning content.
+
+### Company / Role / Content
+
+Focused on candidates preparing for interviews in the Chinese market.
+
+### Notes
+
+Useful as a China-focused interview-preparation source.
+
+### Main Content Types
+
+- Interview prep
+- Technical questions
+- Candidate preparation
+- Chinese hiring market resources
+
+---
+
+## 53. NiuMian Offer
+
+### Official Platform Link
+
+[https://niumianoffer.com](https://niumianoffer.com)
+
+### Country / Primary Region
+
+China
+
+### Content Ownership
+
+Platform-created interview and offer-preparation content.
+
+### Content Type
+
+Structured and semi-structured interview preparation content.
+
+### Company / Role / Content
+
+Focused on interview preparation and offer-oriented job-search support.
+
+### Notes
+
+Useful for China-focused offer and interview preparation.
+
+### Main Content Types
+
+- Interview preparation
+- Offer preparation
+- Candidate resources
+- Chinese job market prep
+
+---
+
+## 54. LAPRAS
+
+### Official Platform Link
+
+[https://lapras.com](https://lapras.com)
+
+### Country / Primary Region
+
+Japan
+
+### Content Ownership
+
+Platform-created talent profile and recruitment product.
+
+### Content Type
+
+Structured engineer profile, skill visibility, and talent matching content.
+
+### Company / Role / Content
+
+Helps engineers in Japan showcase skills and connect with companies.
+
+### Notes
+
+More of a talent/recruitment platform than an interview experience database.
+
+### Main Content Types
+
+- Engineer profiles
+- Talent matching
+- Skill visualization
+- Recruitment
+- Developer hiring
+
+---
+
+## 55. Programmers
+
+### Official Platform Link
+
+[https://programmers.co.kr](https://programmers.co.kr)
+
+### Country / Primary Region
+
+South Korea
+
+### Content Ownership
+
+Platform-created coding education, challenge, and hiring content.
+
+### Content Type
+
+Structured coding tests, courses, challenges, and recruitment content.
+
+### Company / Role / Content
+
+Used in Korea for developer skill assessment, coding tests, and technical hiring.
+
+### Notes
+
+Strong Korea-focused coding test and developer hiring platform.
+
+### Main Content Types
+
+- Coding tests
+- Programming courses
+- Skill assessment
+- Developer hiring
+- Challenges
+
+---
+
+## 56. goormLEVEL
+
+### Official Platform Link
+
+[https://level.goorm.io](https://level.goorm.io)
+
+### Country / Primary Region
+
+South Korea
+
+### Content Ownership
+
+Platform-created coding test and algorithm-practice content by goorm.
+
+### Content Type
+
+Structured coding problems, level-based practice, and assessment content.
+
+### Company / Role / Content
+
+Useful for Korean coding-test preparation and programming skill assessment.
+
+### Notes
+
+Focused on coding ability measurement and algorithm practice.
+
+### Main Content Types
+
+- Coding tests
+- Algorithm practice
+- Skill assessment
+- Programming problems
+- Korean developer prep
+
+---
+
+## 57. paiza
+
+### Official Platform Link
+
+[https://paiza.jp](https://paiza.jp)
+
+### Country / Primary Region
+
+Japan
+
+### Content Ownership
+
+Platform-created programming learning, coding skill-check, and recruitment content.
+
+### Content Type
+
+Structured coding tests, skill checks, learning resources, and job matching content.
+
+### Company / Role / Content
+
+Used in Japan for programming learning, skill-based job matching, and engineer recruitment.
+
+### Notes
+
+Strong Japan-focused coding skill and hiring platform.
+
+### Main Content Types
+
+- Coding skill checks
+- Programming learning
+- Engineer recruitment
+- Job matching
+- Skill assessment
+
+---
+
+## 58. AtCoder Jobs
+
+### Official Platform Link
+
+[https://jobs.atcoder.jp](https://jobs.atcoder.jp)
+
+### Country / Primary Region
+
+Japan
+
+### Content Ownership
+
+Platform-created job and recruitment platform connected to AtCoder.
+
+### Content Type
+
+Structured job listings and recruitment content for competitive programmers and engineers.
+
+### Company / Role / Content
+
+Connects companies with engineers and competitive programmers in Japan.
+
+### Notes
+
+Best used as a hiring/job platform rather than an interview experience source.
+
+### Main Content Types
+
+- Engineer jobs
+- Competitive programmer hiring
+- Job listings
+- Recruitment
+- AtCoder-linked talent
+
+---
+
