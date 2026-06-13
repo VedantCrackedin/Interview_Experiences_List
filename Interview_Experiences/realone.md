@@ -1,913 +1,3 @@
-
-
-## 47 case interview examples (from McKinsey, BCG, Bain, etc.) - IGotAnOffer
-
-URL: https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples
-Scraped: 2026-06-13T12:58:22.249Z
-Depth: 1
-
-# 47 case interview examples (from McKinsey, BCG, Bain, etc.)
-By [Max Serrano](https://igotanoffer.com/en/author/max-serrano) Last updated: May 10, 2026 [ How we wrote this article ](https://igotanoffer.com/en/pages/how-we-write-articles)
-One of the best ways to prepare for[case interviews](https://igotanoffer.com/pages/case-interview "Case interviews") at firms like McKinsey, BCG, or Bain, is by studying case interview examples.
-There are a lot of free sample cases out there, but it's really hard to know where to start. So in this article, we have listed all the best free case examples available, in one place.
-The below list of resources includes interactive case interview samples provided by consulting firms, video case interview demonstrations, case books, and materials developed by the team here at IGotAnOffer. Let's continue to the list.
-* [McKinsey examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#mckinsey)
-* [BCG examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#bcg)
-* [Bain examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#bain)
-* [Deloitte examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#deloitte)
-* [Other firms' examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#other)
-* [Case books from consulting clubs](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#books)
-* [Case interview preparation](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#prep)
-##### [Click here to practise 1-on-1 with MBB ex-interviewers](https://igotanoffer.com/en/interview-coaching/type/case-interview "Case interview coaches")
-## **1. McKinsey case interview examples**
-* [Beautify case interview](https://www.mckinsey.com/careers/interviewing/beautify "Beautify case interview") (McKinsey website)
-* [Diconsa case interview](https://www.mckinsey.com/careers/interviewing/diconsa "Diconsa case interview \(McKinsey\)") (McKinsey website)
-* [Electro-light case interview](https://www.mckinsey.com/careers/interviewing/electrolight "Electro-Light case interview \(McKinsey\)") (McKinsey website)
-* [GlobaPharm case interview](https://www.mckinsey.com/careers/interviewing/globapharm "GlobaPharm case interview \(McKinsey\)") (McKinsey website)
-* [National Education case interview](https://www.mckinsey.com/careers/interviewing/national-education "National Education case interview \(McKinsey\)") (McKinsey website)
-* [Talbot Trucks case interview](https://www.mckinsey.com/careers/interviewing/talbot-trucks "Talbot Trucks McKinsey case interview") (McKinsey website)
-* [Shops Corporation case interview](https://www.mckinsey.com/careers/interviewing/shops-corporation "Shops Corporation McKinsey case interview") (McKinsey website)
-* [Conservation Forever case interview](https://www.mckinsey.com/careers/interviewing/conservation-forever "Conservation Forever McKinsey case interview") (McKinsey website)
-* [McKinsey case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/115672708-mckinsey-case-interview-preparation-the-only-post-youll-need-to-read "McKinsey case interview guide") (by IGotAnOffer)
-* [Profitability case with ex-McKinsey manager](https://www.youtube.com/watch?v=XByqDlkpjoM) (by IGotAnOffer)
-* McKinsey live case interview extract (by IGotAnOffer) - See below
-[Click here to learn more about the McKinsey interview process](https://igotanoffer.com/en/advice/mckinsey-interview-process "McKinsey interview process").
-## **2. BCG case interview examples**
-* [Foods Inc and GenCo case samples](https://careers.bcg.com/case-prep "BCG sample case interviews") (BCG website)
-* [Chateau Boomerang written case interview](http://media-publications.bcg.com/BCG-Written-Case-Example.pdf "BCG case interview") (BCG website)
-* [BCG case interview guide](https://igotanoffer.com/pages/bcg-case-interview "BCG Case Interview Guide") (by IGotAnOffer)
-* [Written cases guide](https://igotanoffer.com/pages/written-case-interview "Written cases guide") (by IGotAnOffer)
-* [BCG live case interview with notes](https://youtu.be/oaIWurgCxsU?si=Iq9xKxsBhKe_JpAv) (by IGotAnOffer)
-* [BCG mock case interview with ex-BCG associate director - Public sector case (by IGotAnOffer)](https://youtu.be/VMakBWg4Hs8?si=zY-Div_NDJqaWMnF)
-* [BCG mock case interview: Revenue problem case](https://youtu.be/dYN3iBB5ACM?si=u19kHwvTQPKiQWvy) (by IGotAnOffer) - See below
-## **3. Bain case interview examples**
-* [CoffeeCo practice case](https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/ "Bain practice case example") (Bain website)
-* [FashionCo practice case](https://www.bain.com/careers/interview-prep/case-library/fashioco-case-study/ "Bain practice case interview") (Bain website)
-* [Associate Consultant mock interview video](https://www.bain.com/careers/interview-prep/case-interview/associate-consultant-practice-case-interview/ "Bain mock case interview example") (Bain website)
-* [Consultant mock interview video](https://www.bain.com/careers/interview-prep/case-interview/cons-video/ "Bain mock case interview video") (Bain website)
-* [Written case interview tips](http://www.bain.com/careers/interview-preparation/written-case-interview.aspx "Written case interview example") (Bain website)
-* [Bain case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/bain-case-interview "Bain Case Interview Guide")(by IGotAnOffer)
-* [Written cases guide](https://igotanoffer.com/pages/written-case-interview "Written cases guide") (by IGotAnOffer)
-* [Digital transformation case with ex-Bain consultant](https://www.youtube.com/watch?v=qjfkFSzWNIk "Mock case interview \(digital transformation\)")
-* [Bain case mock interview - profitability case- with ex-Bain manager](https://youtu.be/OxUkRbzAfRI) (by IGotAnOffer)
-* Bain case mock interview - classic growth case with ex-Bain consultant (by IGotAnOffer)
-## **4. Deloitte case interview examples**
-* [Engagement Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/1 "Agency V Deloitte case interview") (Deloitte website)
-* [Recreation Unlimited practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/3 "Recreation Unlimited Deloitte case interview") (Deloitte website)
-* [Strategic Vision practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/2 "Federal Benefits Provider Deloitte case interview") (Deloitte website)
-* [Retail Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ad/1 "Retail Strategy cases questions \(by Deloitte\)") (Deloitte website)
-* [Finance Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ad/2 "Finance Strategy case question") (Deloitte website)
-* [Talent Management practice case](http://caseinterviewprep.deloitte.com/cases/strategy/adv/3 "Talent Management Deloitte case interview") (Deloitte website)
-* [Enterprise Resource Management practice case](http://caseinterviewprep.deloitte.com/cases/tech/ad/1 "Enterprise Resource Management Deloitte case interview") (Deloitte website)
-* [Footloose written case](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Monitor_Written_Case_Footloose.pdf "Deloitte Footloose written case interview") (by Deloitte)
-* [Deloitte case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/deloitte-case-interview "Deloitte case interview guide") (by IGotAnOffer)
-## **5. Accenture case interview examples**
-* [Case interview workbook](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Accenture_Case_Interview_Workbook.pdf "Accenture case interview examples workbook") (by Accenture)
-* [Accenture case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/accenture-case-interview "Accenture case interview guide") (by IGotAnOffer)
-## **6. OC &C case interview examples**
-* [Leisure Club case example](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/OC_C_-_Leisure_clubs.pdf "Leisure club case example \(by OC&C\)") (by OC&C)
-* [Imported Spirits case example](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/OC_C_-_Imported_spirits.pdf "Imported Spirits case example \(by OC&C\)") (by OC&C)
-## **7. Oliver Wyman case interview examples**
-* [Wumbleworld case sample](http://www.oliverwyman.com/careers/apply/case-studies/wumbleworld.html "Wumbleworld case sample \(by Oliver Wyman\)") (Oliver Wyman website)
-* [Aqualine case sample](http://www.oliverwyman.com/careers/apply/case-studies/aqualine.html "Aqualine case sample \(by Oliver Wyman\)") (Oliver Wyman website)
-* [Oliver Wyman case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/oliver-wyman-case-interview "Oliver Wyman case interview guide") (by IGotAnOffer)
-## **8. A.T. Kearney case interview examples**
-* [Promotion planning case question](https://www.atkearney.com/working-here/ace-the-interview/case-example-promotion-planning "Promotions planning case question \(by A.T. Kearney\)") (A.T. Kearney website)
-* [Consulting case book and examples](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/ATK.pdf "Consulting case book and exmaples \(by A.T. Kearney\)") (by A.T. Kearney)
-* [AT Kearney case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/at-kearney-case-interview "AT Kearney case interview guide") (by IGotAnOffer)
-## **9. Strategy & / PWC case interview examples**
-* [Presentation overview with sample questions](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Strategy_Case_Study.pdf "Strategy& PWC example case interview questions") (by Strategy& / PWC)
-* [Strategy& / PWC case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/strategy-pwc-case-interview "Strategy& PWC Case Interview Guide") (by IGotAnOffer)
-## **10. L.E.K. Consulting case interview examples**
-* [Case interview example video walkthrough](https://www.lek.com/management-consulting-case-interview-example "LEK case interview example")(L.E.K. website)
-* [Market sizing case example video walkthrough](https://www.lek.com/lek-market-sizing-interview "LEK market sizing case interview example") (L.E.K. website)
-## **11. Roland Berger case interview examples**
-* [Transit oriented development case webinar part 1](https://www.rolandberger.com/en/Join/Video/Webinar/Transit-oriented-development-1.html "Roland Berger case interview example") (Roland Berger website)
-* [Transit oriented development case webinar part 2](https://www.rolandberger.com/en/Join/Video/Webinar/Transit-oriented-development-2.html "Roland Berger case interview example")(Roland Berger website)
-* [3D printed hip implants case webinar part 1](https://www.rolandberger.com/en/Join/Video/Webinar/3D-printed-hip-implants-1.html "Roland Berger hip implant case example")(Roland Berger website)
-* [3D printed hip implants case webinar part 2](https://www.rolandberger.com/en/Join/Video/Webinar/3D-printed-hip-implants-2.html "3D printed hip implants case interview example")(Roland Berger website)
-* [Roland Berger case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/roland-berger-case-interview "Roland Berger case interview guide")(by IGotAnOffer)
-## **12. Capital One case interview examples**
-* [Case interview example video walkthrough](https://jobs.capitalone.co.uk/business-analyst-case-study-guide "Capital One Case Interview Study Guide") (Capital One website)
-* [Capital One case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/capital-one-case-interview "Capital One Case Interview Guide") (by IGotAnOffer)
-## **12. EY Parthenon case interview examples**
-* [Candidate-led case example with feedback](https://www.youtube.com/watch?v=INtfZjUZSP4 "Mock case interview") (by IGotAnOffer)
-## **14. Consulting clubs case interview examples**
-* [Berkeley case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Haas_2006.pdf "Berkeley case book \(2006\)")
-* [Columbia case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Columbia_2006.pdf "Columbia Business School 2006 Case book")
-* [Darden case book (2012)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Darden_2012.pdf "Darden case book \(2012\)")
-* [Darden case book (2018)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Darden_Case_Book_2018-2019.pdf "Darden case book")
-* [Duke case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Duke_2011.pdf "Duke case book \(2011\)")
-* [Duke case book (2014)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Fuqua-Case-book-2014.pdf "Duke case book \(2014\)")
-* [ESADE case book (2011)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/ESADE_2011.pdf "ESADE case book \(2011\)")
-* [Goizueta case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2006_Emory_Case_Book.pdf "Emory Goizueta case book")
-* [Illinois case book (2015)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2015_Illinois_Gies_Case_Book.pdf "Illinois Gies case book")
-* [LBS case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/LBS_2006.pdf "LBS case book \(2006\)")
-* [MIT case book (2001)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/MIT_2001.pdf "MIT case book \(2001\)")
-* [Notre Dame case book (2017)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2017_Notre_Dame_Case_Book.pdf "Notre Dame case book")
-* [Ross case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Ross_2010.pdf "Ross case book \(2010\)")
-* [Wharton case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Wharton_2010.pdf "Wharton case book \(2010\)")
-## 5. How to practise case interviews
-We've coached more than 15,000 people for interviews since 2018. There are essentially three activities you can do to practice case interviews. Here’s what we've learned about each of them.
-### 5.1 Practise by yourself
-Learning by yourself is an essential first step. We recommend you make full use of the free prep resources on our [consulting blog](https://igotanoffer.com/blogs/mckinsey-case-interview-blog "Consulting interview prep"). You can start with our complete Case Interview Prep guide.
-If you prefer visual content (which can be really useful for explaining case interview techniques), watch the video below to see one of our coaches take you through how to ace a case interview, step by step.
-Once you’re in command of the subject matter, you’ll want to practice answering cases. But by yourself, you can’t simulate thinking on your feet or the pressure of performing in front of a stranger. Plus, there are no unexpected follow-up questions and no feedback.
-That’s why many candidates try to practice with friends or peers.
-### 5.2 Practise with peers
-If you have friends or peers who can do mock interviews with you, that's an option worth trying. It’s free, but be warned, you may come up against the following problems:
-* It’s hard to know if the feedback you get is accurate
-* They’re unlikely to have insider knowledge of interviews at your target company
-* On peer platforms, people often waste your time by not showing up
-For those reasons, many candidates skip peer mock interviews and go straight to mock interviews with an expert.
-### 5.3 Practise with experienced MBB interviewers
-In our experience, practising real interviews with experts who can give you company-specific feedback makes a huge difference.
-Find a [consulting interview coach](https://igotanoffer.com/en/interview-coaching/type/case-interview) so you can:
-* Test yourself under real interview conditions
-* Get accurate feedback from a real expert
-* Build your confidence
-* Get company-specific insights
-* Learn how to tell the right stories, better.
-* Save time by focusing your preparation
-Landing a job at a top consulting company often results in a $50,000 per year or more increase in total compensation. In our experience, three or four coaching sessions worth ~$500 will make a significant difference in your ability to land the job. That’s an ROI of 100x!
-[Click here to book case interview coaching with experienced MBB interviewers.](https://igotanoffer.com/en/interview-coaching/type/case-interview)
-[ Browse MBB ex-interviewers ](https://igotanoffer.com/en/interview-coaching/type/case-interview)
-
----
-
-## The 8 types of PM Interview Questions (+ answers) - IGotAnOffer
-
-URL: https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions
-Scraped: 2026-06-13T13:03:05.400Z
-Depth: 1
-
-# The 8 types of Product Manager Interview Questions (+ answers)
-By [Tom Parry](https://igotanoffer.com/en/author/tom-parry) with input from the following coaches: [Alan K](https://igotanoffer.com/en/coach/alan-2) , [Gaurav C](https://igotanoffer.com/en/coach/gaurav-4) , [Ino C](https://igotanoffer.com/en/coach/ino) , [Hussain K](https://igotanoffer.com/en/coach/hussain) , [Philip N](https://igotanoffer.com/en/coach/philip-3) , [Jatin G](https://igotanoffer.com/en/coach/jatin) , [Irit G](https://igotanoffer.com/en/coach/irit) , [Javaid T](https://igotanoffer.com/en/coach/javaid) , [Jessica Z](https://igotanoffer.com/en/coach/jessica-2) , [Jay L](https://igotanoffer.com/en/coach/jay-3) , [Suhel P](https://igotanoffer.com/en/coach/suhel) , [Gal E](https://igotanoffer.com/en/coach/gal) , and [Casey P](https://igotanoffer.com/en/coach/casey) . Last updated: May 26, 2026
-Product manager interview questions are tough, often complex, and ambiguous. If you're interviewing at a top company, the bar will be high. And in recent years, another component has made them even trickier: the AI/ML requirement.
-Companies are starting to experiment with different approaches for this new skill requirement. [Meta](https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview "Meta PM interivew"), for one, has included vibe coding in its PM loop. Others, like [Google](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview "Google PM interview"), [Amazon](https://igotanoffer.com/blogs/product-manager/amazon-product-manager-interview "Amazon PM interview"), and [Uber](https://igotanoffer.com/blogs/product-manager/uber-product-manager-interview "Uber PM interview"), are embedding AI expectations throughout the process. Meanwhile, AI labs like [OpenAI](https://igotanoffer.com/en/advice/openai-product-manager-interview "OpenAI PM interview"), [NVIDIA](https://igotanoffer.com/en/advice/nvidia-product-manager-interview "NVIDIA PM interview"), and Anthropic are testing for niche specializations in their PM hires.
-The hiring bar may be shifting a bit, but one thing remains true: the right preparation makes all the difference. That’s what this guide is for.
-Below, we'll go through the 8 types of product manager interview questions asked at all the top tech companies, along with high-quality sample answers. Plus, we list over 100 real questions to practice with. We also asked a bunch of FAANG+ PM ex-interviewers for the most popular questions and why they ask them.
-Here's an overview:
-[1. Every type of product manager interview question (with answers)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)
-[2. Top 19 product manager interview questions (chosen by FAANG+ PMs)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#top)
-[3. PM interview preparation plan](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#prep)
-Let's go!
-##### [Click here to practice 1-on-1 with FAANG PM ex-interviewers](https://igotanoffer.com/en/interview-coaching/role/product-manager "product manager interview coaches")
-## **1. What types of interview questions do PMs get? (+ how to answer)**
-****
-Product manager interview questions can be divided into 8 types:
-* [Generic and fit: "Why do you want to work here?"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#fit)
-* [Behavioral: "Tell me about a time you dealt with conflict"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-* [Product sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-* [Product design: "Design a fitness app for Meta"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#design)
-* [Product improvement: "Improve Facebook"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#improvement)
-* [AI product sense: "Design an AI companion"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#AI)
-* [Analytical](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#analytical)
-* [Metric definition: "Set goals for an AI-only social network":](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#definition)
-* [Metric change (root cause): "Instagram feed engagement drops 10% - what do you do?"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#change)
-* [Product strategy: "What's your 10-year strategy for Uber?"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#strategy)
-* [Estimation: "How much revenue does YouTube generate per day?"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#estimation)
-* [Prioritization and trade-offs: "How would you prioritize 3 features?"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#prioritization)
-* [Technical](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#technical)
-* [Technical explanation: "Explain how the internet works"](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#explanation)
-* [System design: Design a notification system for a mobile app](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#SD)
-Now let's take a look at the question categories. We've included examples below for each category. These are examples of real questions asked in recent years to product manager candidates at top companies, reported by the candidates on [Glassdoor](https://www.glassdoor.com/Interview/product-manager-interview-questions-SRCH_KO0,15.htm).
-Let's start with the most basic: generic and fit questions.
-### 1.1 Generic and fit questions**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-You’ll get asked generic and fit questions at any point in the interview process. Expect standard questions about your experience and suitability for the role, as well as about your motivation for applying to the company, i.e., "fit" or "cultural fit” questions.
-This category of questions is probably the most straightforward, but you still need to prepare for them. Interviewers at top companies expect structured, compelling answers that demonstrate strong motivation and clear thinking.
-Let's take a look at an example answer to "Why do you want to work at this company?"
-#### **Why do you want to work at this company?**
-Example answer:
-I want to work at Meta for three reasons.
-First, I've worked on messaging products for the past few years, and I’ve been inspired by the Facebook Messenger app in much of my work, particularly with how AR effects have been built into the system. It’s why I applied to join the Messenger team, whose work impacts more than 1 billion people.
-Second, I went to school with Marina Bayard, an engineering manager for Messenger, who recommended I apply. I really enjoyed my discussion with her as she seemed to be truly passionate about Meta’s company culture and flat organizational structure. She praised how much it allowed her to be autonomous and get things done.
-Finally, I'm attracted to Meta’s culture of moving fast and being bold. These are some of the values I’ve tried to implement myself, removing unnecessary steps from my company’s previous lengthy approval process, so my reports could get things done faster. I'm excited to join a team that thinks along similar lines.
-Learn the principles behind the example answer above in our specific[ guide to answering the "Why this company" question](https://igotanoffer.com/blogs/tech/why-facebook "Why Meta? Interview question").
-#### **More example generic and fit questions**
-* [Tell me about yourself (video answers) ](https://youtu.be/7Hd_8nrNrZ0?t=43 "Mock interview video - tell me about yourself")
-* [Why do you want to work at this company? (video answers)](https://youtu.be/7Hd_8nrNrZ0?t=152 "Mock interview video - why do you want to work at Google?")
-* Why product management?
-* Outline your experience as a product manager
-* [Walk me through your resume (4 sample answers)](https://igotanoffer.com/blogs/tech/walk-me-through-your-resume "Walk me through your resume \(4 sample answers\)")
-### **1.2**Behavioral interview questions******[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Tech companies use behavioral interviews to assess product managers based on their past experiences. Like generic & fit questions, behavioral questions appear at every stage of the interview process. The frequency and type of behavioral questions will vary, but be prepared for many, especially if you're applying for a leadership role.
-These questions typically start with “Tell me about a time you…” and focus on soft skills such as leadership, communication, teamwork, and problem-solving.
-You should be ready for some behavioral questions to probe your experience with key parts of the product management process, such as planning roadmaps, launching products, and stakeholder management.
-Let's take a look at a sample answer to "Tell me about a time you dealt with conflict at work."
-#### **Tell me about a time you dealt with conflict at work**
-Example answer:
-(Situation)
-"Certainly. In my previous role, I found myself amid a conflict regarding resource allocation for two critical projects within our development team.
-(Problem)
-The conflict arose when both the product development and infrastructure enhancement teams were vying for the same limited resources for their respective projects. I could empathize with both their perspectives but it seemed to me that many of the people involved were basing their arguments on their "gut feeling" around what was "fair".
-(Solution)
-Recognizing the potential disruption this conflict could cause, I organized a collaborative discussion involving representatives from both teams, project managers, and the leadership. During this discussion, we openly addressed the conflicting priorities and resource needs of each project. I encouraged a transparent sharing of data and information regarding the potential impact of both projects on the company's goals.
-This way, we were able to base our discussion around the data, rather than around people's subjective opinions and hunches.
-(Impact)
-By presenting a data-driven analysis and illustrating how each project aligned with the company's objectives, we were able to justify the resource allocation for both initiatives. The infrastructure team ended up with slightly less than they were hoping for, but presented with the data, they accepted that this was a fair distribution of resources. In the end, both projects progressed effectively.
-(Lessons)
-Ultimately, this experience taught me how useful data can be in solving or avoiding these types of conflicts. When people use opinions, hunches, and emotions to make decisions, disagreements occur, and they tend to feel more personal. But when the decision-making process is data-driven, there is less room for subjective opinion, and it becomes easier to align different stakeholders."
-See [Tell me about a time you dealt with conflict: 5 ways to answer](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-had-a-conflict "Tell me about a time you dealt with conflict: 5 ways to answer") for a deep-dive on this question.
-You'll notice that the answer above is structured along a simple framework. Here’s a quick look at the framework we recommend:
-Remember, you'll probably be asked more behavioral questions than any other type, so it's worth preparing your "stories" thoroughly. Make sure you have 3-4 minute answers prepared for the questions below. Check out our video on [how to prepare a story bank](https://www.youtube.com/watch?v=NKJ3Lza9ogg).
-#### **More example behavioral questions:**
-* [Tell me about a time you demonstrated leadership (5 ways to answer)](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-showed-leadership "tell me about a time you showed leadership - tips and answers")
-* [Tell me about a time you failed (5 ways to answer)](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-failed "Tell me about a time you failed \(5 ways to answer\)")
-* Tell me about a time you had an innovative idea that had a positive impact
-* Tell me about your most significant accomplishment. Why was it significant?
-* Tell me about a time you worked backwards from a customer problem — how did you solve it?
-* Describe a project that you wish you had done better and how you would do it differently today
-* Tell me about a time you applied judgment to a decision when data was not available
-* Tell me about a product you led from idea to launch
-* Describe the last time you had to make a challenging decision when prioritizing
-* How do you handle situations where there is resistance to change within your team or organization?
-Check out our [guide on PM behavioral interview questions](https://igotanoffer.com/en/advice/product-manager-behavioral-interview-questions "Product manager behavioral interview questions guide") for a list of common questions asked at top companies, along with sample answers.
-### 1.3 Product sense questions**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Product sense interview questions are designed to evaluate how you work to understand common product challenges and how you identify the best way to approach them. Of all the interview questions you’ll get, they’re the most crucial.
-_“Product sense interviews are very reflective of what the PM job is about, which very generically is about figuring out what to build and why,”_ says [Khalid ](https://igotanoffer.com/en/coach/khalid)(Ex-Meta and DoorDash PM interviewer).
-Product sense interview questions can come in two forms: product design and product improvement. If you’re applying for an AI PM role, you’ll likely also get an AI product sense question. You’ll typically get 45 to 55 minutes to answer the question.
-Product sense questions are intentionally ambiguous and open-ended, so there are no right or wrong answers. What interviewers want to see is your ability to approach the problem in a structured way.
-Below we show you sample answers for all 3 types of product sense questions.
-#### **1.3.1**Product design questions******[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-#### **Design a fitness app for Meta**
-Example answer outline from [Mark (Senior PM, ex Meta and Google)](https://igotanoffer.com/en/coach/mark "Meta product manager coach"):
-**1. Business goals**
-Start by identifying Meta's business objectives. Are they focused on user engagement, data collection, or expanding their product offerings?
-**2. Segmentation**
-Think about the different segments of users Meta is targeting. You might break them into:
-* Casual users who want to track basic fitness activities like steps or calories
-* Fitness enthusiasts looking for more detailed tracking, challenges, or social features
-* Health-conscious individuals interested in mental wellness, sleep tracking, and holistic health
-Consider Meta's existing user base and how you could leverage social connections within the app, like fitness groups or challenges.
-**3. User problems**
-What challenges are these segments facing? For example:
-* Casual users may struggle with keeping a consistent workout routine.
-* Enthusiasts may feel overwhelmed by too many data points or features.
-* Health-conscious individuals might not find a seamless way to track both physical and mental health in one place.
-**4. Solutions**
-Offer solutions that solve these problems:
-* For casual users, suggest a personalized fitness tracker that’s easy to use and doesn’t overwhelm them.
-* For fitness enthusiasts, introduce detailed analytics and integration with wearables to track performance and set challenges.
-* For health-conscious individuals, propose a wellness dashboard that integrates physical fitness, sleep, and mindfulness activities.
-* Think about leveraging Meta's social features, like sharing achievements or competing with friends.
-**5. Prioritize**
-Recognize that not all features can be built right away. Focus on the most impactful ones that align with Meta's business goals and will attract the largest user base:
-* For casual users, prioritize ease of use and basic fitness tracking features.
-* For enthusiasts, prioritize advanced tracking and social engagement features.
-* Consider Meta's existing infrastructure to determine which features can be built most efficiently.
-Use a framework like RICE (Reach, Impact, Confidence, Effort) or Moscow (Must-have, Should-have, Could-have, Won't-have) to assess and prioritize features.
-**6. Technical and ethical constraints**
-As this app will likely integrate with Meta’s other platforms, keep in mind privacy and data security issues.
-* How can Meta ensure users' data is safe while still offering valuable insights?
-* Think about whether this app should support integration with third-party fitness trackers (e.g., Apple Watch, Fitbit) and how to handle that data.
-**7. Metrics**
-Identify key performance indicators (KPIs) to measure success, like daily active users (DAU), user retention rates, and engagement with features (e.g., social sharing, challenges, etc.).
-[Watch a full video version of Mark giving this answer](https://youtu.be/oGqz-TMQNR4 "Meta product manager mock interview"):
-Read our guide on [How to answer product design questions](https://igotanoffer.com/blogs/product-manager/product-design-questions "Product design interview questions") to learn in more detail what's expected of you and which frameworks you could use. Then practice answering a few from the list below.
-#### **More example product design questions**
-* [Design an app for a theme park (video answer) ](https://youtu.be/RMl5--QMA2A "Google product manager design question")
-* [Design an antiques marketplace (video answer) ](https://youtu.be/dPsonVVaGgc "Mock interview video - design an antiques marketplace")
-* [Design a fitness app for Meta (video answer)](https://www.youtube.com/watch?v=oGqz-TMQNR4 "Design a fitness app for Meta - PM mock interview")
-* [Design a computer keyboard (written answer)](https://igotanoffer.com/blogs/product-manager/product-design-questions#Example)
-* Design an alarm clock for the blind
-* Design a pen for an astronaut
-* Design an umbrella for kids
-* Design a phone for deaf people
-* Design a washer and dryer
-* Design Google radio
-* Design a dictionary lookup for Scrabble
-* Design an app for a community of Celiac patients
-* Design a grocery app
-* Design an app for the Department of Motor Vehicles (DMV)
-* Design a bike-based delivery service
-* Design an elevator
-#### **1.3.2 Product improvement questions****[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-#### **How would you improve Facebook?**
-Example answer:
-**1. Business objective**
-* You need to reduce the scope of the question. Facebook has many products: Feed, Messenger, Marketplace, Ads Manager, etc. Is there a specific one we should focus on?
-* Do we already have a target user in mind for that product, or is that something we should explore/discuss?
-Let's assume the focus is on improving Facebook's Ads Manager to increase conversion rates for small businesses (DIY advertisers).
-**2. User problems**
-After confirming the business goal, it’s time to dive into user problems. For DIY advertisers using Ads Manager, the challenges could include:
-* Overwhelmed with customization options: New users may find the abundance of settings and features confusing (e.g., different ad formats, placements, targeting options).
-* Difficulty installing the Facebook Pixel: Many small businesses don’t have the technical resources to install the Pixel and track conversions effectively.
-* Uncertainty about using Facebook Ads: Some users might not be sure if Facebook Ads is the best fit for their needs compared to other marketing options.
-Prioritizing problems: As small business owners are likely wearing multiple hats, they need solutions that help them get up and running quickly. Therefore, prioritize problems like the overwhelming options in Ads Manager and technical barriers to Pixel installation, as solving these can help users start running ads faster and gain immediate results.
-**3. Solutions**
-Now that we know the problems, let’s brainstorm potential solutions for each one.
-For Problem 1 (customization overload):
-* Onboarding experience: Guide new users through their first ad creation with a simple, step-by-step walkthrough.
-* Ad campaign templates: Offer pre-built templates tailored to different small business goals, making it easy for users to launch their ads quickly.
-* Simplified version of Ads Manager: Consider creating a “light” version of the tool with only the most essential features for DIY advertisers, so they don’t feel overwhelmed by complexity.
-For Problem 2 (Pixel installation):
-* Integrations with website builders: Partner with platforms like Shopify, WordPress, and Wix to allow easy integration of Facebook Pixel without any technical knowledge.
-* Developer list: Provide a directory of trusted developers who can help with Pixel installation, potentially for a fee.
-* Self-installation tutorial: Offer a detailed guide for DIY users who want to take a more hands-on approach, walking them through the installation process in simple terms.
-**4. Prioritize solutions**
-For Problem 1 (customization):
-* The simplified Ads Manager would likely have the biggest immediate impact, even though it may take time to develop. However, this would provide long-term benefits by making it easier for small businesses to get started with Facebook Ads.
-* Onboarding experience and ad templates are quicker fixes that would immediately make Ads Manager more approachable for new users.
-For Problem 2 (Pixel installation):
-* The integration with website builders should be a high priority since it reduces the technical barrier to entry for users.
-* The tutorial could be an additional quick-win solution for those who are comfortable doing things on their own, while the developer list would be a more optional service for users needing extra support.
-**5. Final recommendation**
-To effectively increase the activation rate of small businesses using Ads Manager, you could recommend the following steps:
-* Develop a simplified version of Ads Manager for DIY advertisers to reduce overwhelm.
-* Integrate with website builders like Shopify and WordPress to allow easy Facebook Pixel installation.
-* Provide a tutorial for users who prefer to set up the Pixel themselves, ensuring there are self-service options for both technical and non-technical users.
-See the full version of the answer above, plus learn more about using frameworks for these questions in our guide to [answering product improvement questions.](https://igotanoffer.com/blogs/product-manager/product-improvement-questions#approach "Product improvement questions - How to answer") For the different twist on this question category, read our guide on how to answer "[what's your favorite product?](https://igotanoffer.com/blogs/product-manager/favorite-product-interview-question "Favorite product interview question")"
-You can practice further with the questions below.
-#### **More example product improvement questions**
-* [How would you improve Google Chrome? (video answer)](https://youtu.be/XAJeXlY6w-c "Google PM mock interview")
-* [How would you improve Facebook Groups? (video answer)](https://youtu.be/777Khu_NVxM "Mock interview video - how would you improve Facebook groups?")
-* [How would you improve Google Maps (written answer)](https://www.mypminterview.com/p/product-improve-how-would-you-improve-googlemaps)
-* How would you improve Google Pay?
-* How would you improve throughput at an airport?
-* How would you improve Airbnb?
-* How would you improve Dropbox?
-* How would you improve Netflix?
-* How would you improve Reddit?
-* How would you improve LinkedIn's user profile page?
-* How would you improve engagement in Trello?
-* How would you improve Google Home?
-* How would you improve Google Image search?
-* How would you improve the NYC transit system?
-#### 1.3.3 AI product sense **[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-What differentiates the AI product sense question from the classic product sense question is that you're designing for a probabilistic world where the system's outputs are unpredictable.
-_"It's not just about designing features. It's more about designing guardrails inside which the models actually work,"_ says [Gal](https://igotanoffer.com/en/coach/gal) (ex-Google Senior PM).
-Let's see how an expert answers the AI product sense question: "Design an AI companion"
-"Design an AI companion"
-Example answer outline from [Gal](https://igotanoffer.com/en/coach/gal) (ex-Google Senior PM):
-**1. Business Objectives**
-* Build a safe AI wellbeing companion aligned with Anthropic’s constitutional AI principles.
-* Improve well-being and trust without driving addictive engagement.
-* Preserve real-world human relationships.
-* Start with scalable, lower-risk segments.
-**2. User Types & Pain Points**
-* High-capability seniors with social needs (primary segment)
-* Loneliness and lack of spontaneous interaction.
-* Shallow conversations and low intellectual stimulation.
-* Loss of purpose/motivation after retirement.
-* Feeling like a burden to family/friends.
-* High-capability seniors with physical needs
-* Medication and chronic condition management.
-* Minor health uncertainty.
-* Low activity levels.
-* Lower-capability seniors with social needs
-* Cognitive decline and low digital fluency.
-* Difficulty initiating interaction.
-* Isolation and low confidence.
-* Lower-capability seniors with physical + social needs
-* High dependency and safety concerns.
-* Difficulty maintaining engagement.
-**3. Solutions**
-* Proactive companion
-* Optional AI-initiated check-ins and contextual conversations.
-* Deep conversation companion
-* Personalized intellectual discussions based on user interests.
-* Activity coach
-* Personalized nudges for walks, hobbies, and routines.
-* Health & routine support
-* Medication reminders and basic wellness guidance.
-* Simplified UX
-* Low-effort conversational interface for lower-capability users.
-* Caregiver-aware support (future phase)
-* Shared visibility and monitoring for caregivers.
-* Constitutional AI safeguards
-* Transparent AI identity.
-* Encourage real-world relationships.
-* Limit over-engagement and intrusive notifications.
-### 1.4 Analytical thinking questions**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Analytical interview questions are also known as metric questions. While the product sense questions test you on your ability to understand product challenges and identify the best way to approach them, analytical thinking questions assess you on how you execute solutions.
-There are generally two types of analytical thinking questions you’ll get: metric definition and metric change.
-Below we show you sample answers for each type of question:
-#### **1.4.1****Metric definition ques**tions******[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Metric definition questions focus on your ability to define metrics that provide clarity on the health of a product or feature. Your interviewer will want to hear you select the most important metrics (e.g., impressions, clicks, return on ad spend, etc.) using a rigorous process.
-Let's take a look at how an expert answers the metric definition question: "Set goals for an AI-only social network"
-**Set goals for an AI-only social network**
-Example answer outline from [Gal](https://igotanoffer.com/en/coach/gal) (ex-Google Senior PM) using GAME framework:
-**1. Outline goals**
-Before anything else, make sure you understand the problem.
-* Confirm:
-* It’s a social network where only AI agents interact with each other
-* Not a multi-agent problem-solving platform where they come and and solve problems together, but more of a knowledge exchange platform
-* Internal only (not open to public)
-* Acknowledge that it’s a hard question and accept the fact that we are not going anywhere as deep as a real-life discussion on this subject.
-Define goals:
-* Start with OpenAI’s mission: ensuring that artificial general intelligence benefits all of humanity. How would our social network fit in with that mission?
-* Not a classic social network question: the purpose of classic social networks is social interaction.
-* AI social network: The purpose is to enable AI agents to improve their learning.
-* User goal:
-* Create a network where agents can exchange learnings and improve their future task performance.
-* Business goal:
-* In a classic social network, users just pay with their free time.
-* Here, letting an agent spend time on the network costs real dollars.
-* Improve agent capability at a lower marginal cost. State the mission like maximize agent capability gain relative to the cost of participating in the network.
-* It is important to clearly differentiate between the user goal and the business goal to define how the two interact. Link it all back to the company mission.
-**2. Prioritize actions**
-* List as many actions as possible, then prioritize:
-* Consuming learning - the most basic action
-* Applying learnings outside the network
-* Sharing generalizations to different domains
-**3. Define metrics**
-* Consuming learnings: number of consumed learnings per network token.
-* Percent of sessions that actually include consumed learning: important because want them to actually learn something on the network.
-* Average number of consumptions per learning: I want to know that we don't have too much noise. We have a lot of learnings that no one cares about or consumes.
-* Applying learnings outside of the network.
-* Percentage of consumed learnings that are actually applied to agent policies outside of the network -- the basic metric here
-* Number of policy changes per network token.
-* Performance gain per each applied learning
-* Sharing generalizations to different domains
-* Average total weekly generalizations
-* Average number of generalizations per thousand learnings. How much are we moving between these layers? We have the learning layer. How much are we able to move to the next layer of generalization?
-* Outcome metrics: What are the outcomes of this network? Measure capability improvement rate. An agent improves capability over time . Compare how they improve without the network and how they improve with the network, i.e., capability improvement delta.
-* Capability improvement delta per network token. How much does it cost?
-**4. Evaluate**
-* Go back to the goal: Maximize agent capability gain relative to the cost of participating in the network.
-* We focused on the actions of consuming learnings, applying them outside of the network and coming back with generalizations.
-* Now when we define the metrics for consuming learnings, we focus on maximizing consumption per network token.
-* Downside: we are not really sure that these learnings are even useful.
-* Although it's an important first step, this cannot live alone.
-* Next, how are these learnings applied outside of the network?
-* This brings us closer to the goal of maximizing capability gain.
-* Missing part, something that would reflect the actual network effect.
-* This is where we added the third part: generalizing our learnings to new domains.
-* This is where I believe this network will actually shine
-* Brings the most significant improvement per agent time or per network token.
-* Always go back to the goal, and show how metrics are tied to it
-* Have a real discussion of the downsides of the metrics chosen.
-Read more on metric definition questions and how to use the GAME framework in our guide on [how to crack metric questions in product manager interviews](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions "Product metric questions").
-#### **More example metric definition questions**
-* [Define YouTube success metrics](https://youtu.be/2Q2lFj3KsBU "Pick YouTube success metrics")
-* What metrics did you use to measure the successful launch of your product?
-* What metrics would you use to measure the success of Facebook’s “Save Item” feature?
-* How would you measure the success of the new YouTube Player UI?
-* What analysis would you use to understand if we should increase the price of an Amazon Prime Membership?
-* How would you determine the negative value of an abusive posting?
-* Imagine you are the PM of the Facebook Feed — how would you measure retention?
-* [How would you set goals for Instagram Reels?](https://youtu.be/HQEUHduP_mY "Mock interview video - set goals for Instagram reels")
-* Tell me what metrics you would look at as a product manager for Instagram ads
-* What are the things that Netflix should measure and analyze on a daily basis?
-* How would you measure the success of Apple's WWDC event?
-### **1.7****Metric change (root cause) ques**tions******[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-**Metric change questions** test whether you know what to do when a key product metric (e.g. traffic, revenue, engagement, etc.) is going up or down without a clear cause. How would you get to the root cause of the problem?
-In asking you this question, your interviewer wants to see you take a structured and exhaustive approach to find the root cause of the issue, among all the many different reasons a metric might change.
-Let's see how an expert PM would answer a root cause question: "Engagement on Instagram feed drops 10%. What do you do?"
-#### Engagement on Instagram feed drops 10%. What do you do?
-Example answer from [Damien (ex-Meta product manager)](https://igotanoffer.com/en/coach/damien-2 "Meta product manager interview coach"):
-When tackling an analytical thinking question like this, it's important to have a structured approach. Here’s how I would go about answering it effectively.
-Bear in mind that for "root cause" questions like this, you're mainly asking questions of the interviewer. The trick is to make sure you're asking the right ones, and in a logical and structured manner that gets you to the cause of the change in metrics.
-**1. Understand the problem**
-* Before diving in, clarify the key metric drop: what exactly does "engagement" mean in this case? Is it time spent, likes, shares, or something else?
-* In this scenario, engagement means a drop in time spent on the Instagram feed, along with related actions like likes and comments.
-* Confirm whether the issue is isolated or broader—does it affect only Instagram, or do we see similar drops across other meta products like Facebook or WhatsApp? Here, it's limited to Instagram.
-**2. Investigate internal changes**
-* Check for internal updates: did we roll out a new version of Instagram? Make UI changes? Modify the algorithm? In this case, no major changes were made.
-* Look at system errors: any bugs, backend failures, or analytics issues? Here, no internal reports indicate a problem.
-* Validate with internal teams: are there any reports from engineering, data, or security teams that could explain the drop? Again, nothing significant was found.
-**3. Analyze external factors**
-* Assess competitor activity: did another platform launch a major feature or campaign that could have pulled users away? In this case, no major shifts were detected.
-* Examine broader industry trends: is there a general decline in feed-based engagement across social media? Our analysis showed no such trend.
-* Identify regional patterns: is the drop specific to one country or global? Here, the most significant decline was in the US, but there were also smaller declines worldwide.
-**4. Explore user behavior changes**
-* Analyze content consumption: did the drop affect all types of feed content equally? In this case, stories experienced the biggest decline in engagement.
-* Investigate content production: did creators post less content? Overall production was stable, but large accounts saw a noticeable drop.
-* Assess feed quality: did users have fewer posts to engage with? Yes, there was a reduction in available content.
-**5. Identify the root cause**
-* Since major influencers reduced their content production, it impacted the overall quality of users' feeds.
-* Further investigation revealed a targeted hacking attack on high-profile accounts, preventing them from posting.
-**6. Conclusion & next steps**
-* Summarize findings clearly: the drop in engagement was driven by a decline in content from major influencers, caused by a targeted hacking incident.
-* Propose action items: address security vulnerabilities, restore affected accounts, and communicate with impacted creators to encourage content production.
-* Always tie back to business impact: engagement dropped because users saw lower-quality feeds, leading to less time spent on the platform.
-Watch Damien answer this question in full in this [product manager metrics mock interview](https://youtu.be/-TNeIdOc1F8 "Product manager mock interview - metrics").
-Consult our guide to answering [product metric interview questions](https://igotanoffer.com/blogs/product-manager/product-metric-interview-questions "how to answer product metric interview questions") to best prepare yourself for this category.
-#### **More example metric change (root cause) questions:**
-* There's been a 15% drop in usage of Facebook Groups — how do you fix it?
-* You have just localized an e-commerce site in Spain and now see that traffic has reduced — what could be the reasons?
-* You are looking at YouTube’s Daily Active User data worldwide and notice a 10% jump compared to yesterday in Indonesia — what happened?
-* Users are no longer signing up for our email list — what would you do?
-* Reddit traffic went down 5%. How would you report this issue to the executive team?
-* The usage of Facebook Event’s “Yes I’m going” dropped 30% overnight — what data would you look at to try to isolate the issue?
-* You are the PM of Facebook 3rd Party Login, and you see your numbers are declining 2% week-on-week — what do you do?
-### **1.5 Product strategy interview questions****[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Product strategy questions assess how well you take into account different aspects such as competition, pricing, marketing, time to market, etc., when making product decisions. They also test your ability to set the product vision and articulate a roadmap to deliver it.
-Most FAANG companies ask product strategy questions at the interview loop stage. Google, for example, has a round called “[strategic insights](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview#strategic "Google PM interview: strategic insights"),” whereas Amazon will ask you strategy questions related to its [leadership principles](https://igotanoffer.com/en/advice/amazon-leadership-principles "Amazon leadership principles interview").
-Let's see how an expert PM might answer a strategy question: "Imagine you're the CEO of Uber: What would your 10-year strategy be?"
-#### Imagine you're the CEO of Uber: What would your 10-year strategy be?
-Example answer from [Mark (Senior PM, ex Meta and Google)](https://igotanoffer.com/en/coach/mark "Meta product manager coach"):
-Below, I've applied [Porter’s Five Forces](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/118288068-case-interviews-frameworks-comprehensive-guide#porter "Porter's five forces framework") framework to this question, but there are other ways to approach it. The key is to stay clear, logical, and structured.
-**1. Competition**
-Competition is fierce in this space. Uber’s main competitors aren’t just other rideshare companies but also logistics providers and delivery services. Companies like Lyft, DoorDash, Amazon, and even local mobility startups are all potential threats.
-Key takeaway: The real competitive advantage comes from network effects. The more people use Uber, the more valuable it becomes for drivers and riders alike. That means Uber has to keep scaling, improving efficiency, and ensuring a top-tier user experience.
-**2. Customers**
-Customer loyalty isn’t a given—people use Uber because it’s convenient, fast, and reliable. If it’s not those things, they’ll switch. Price matters, but speed and reliability matter more.
-Key takeaway: To stay ahead, Uber needs to double down on AI to optimize routing, predict demand, and personalize the experience. The best AI doesn’t just respond; it anticipates. Imagine an Uber that knows you need a bigger car because you’re traveling with friends, or that a truck would be better for your trip to Home Depot. That’s the future.
-**3. Suppliers**
-Drivers are suppliers, and Uber doesn’t own the supply, so keeping them engaged is critical. Uber’s margins are tied to keeping drivers happy while making the platform attractive to riders.
-Key takeaway: Uber needs to balance pricing and incentives carefully. The long-term bet is on autonomous vehicles, but until then, driver experience matters.
-**4. Substitutes**
-This is an interesting one. In personal transport, taxis used to be the main substitute, but that’s no longer a serious threat unless taxis become drastically cheaper or significantly better. Other substitutes like biking, public transit, or walking haven’t evolved much in decades and likely won’t change dramatically in the near future.
-However, when it comes to moving goods, not just people, substitution is a much bigger threat. UPS, FedEx, Amazon, and local delivery startups all compete here. This means Uber’s logistics business must be extremely competitive on price and reliability to win.
-Key takeaway: The best way to defend against substitution is to be the most convenient and cost-effective option. Margins might be thinner in logistics, but scale can make up for it.
-**5. Threat of new entrants**
-New entrants could come from unexpected places. There are two in particular worth discussing:
-* Decentralized Transportation (DT): Just like DeFi (Decentralized Finance) is disrupting banking, a decentralized rideshare or delivery network could disrupt Uber. The best defense? Build a world-class product that’s so good that users prefer it over decentralized alternatives.
-* Hyperloop and Other Innovations: Elon Musk’s Hyperloop and similar projects could be disruptive in the long run, but in the next 10 years, it’s unlikely to be a major factor. That said, Uber should keep an eye on emerging technologies that could reshape the industry.
-Key takeaway: Uber’s biggest advantage is execution. The best way to stay ahead is to invest in AI, user experience, and operational efficiency to make Uber’s centralized model better than any alternative.
-**6. Bring it all together**
-From this analysis, we can define Uber’s key pillars for the next decade:
-1. AI-first approach: AI must power everything, from routing to pricing to user experience.
-2. Autonomous vehicles: long-term profitability depends on removing driver costs.
-3. Extreme network effects: more users = more value = more dominance.
-4. High-quality product: the best user experience wins.
-**7. What we didn't cover**
-No strategy is perfect, and it’s just as important to call out what wasn’t covered in-depth:
-* Brand perception: how customers feel about Uber matters, but it wasn’t a focus here.
-* M&A strategy: Uber might need to acquire companies to accelerate growth, particularly in AI and autonomous tech.
-* Profitability & margins: right now, Uber isn’t super profitable, but long-term, great products should command pricing power.
-**8. Prioritization**
-If Uber wants to dominate mobility, which of these four bets is the most critical? For me, it’s AI. Uber’s success depends on being fast and efficient—AI is the backbone of that. The best AI will make Uber more seamless, predictive, and effortless for users.
-**9. North Star metric**
-To measure success, we need one key metric. For Uber, it’s not just about rides, it’s about moving things. So the best metric is Monthly Move Units (MMU)—how many people, packages, and goods Uber moves each month. If MMU is growing, Uber is winning.
-[Watch Mark answer this question in full](https://youtu.be/nrM6AwYOrBc "Product manager mock interview - strategy").
-Read our guide to answering [product strategy interview questions ](https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions "Product strategy interview questions")to deep-dive into these questions. Remember, when answering a strategy question, always:
-* Use a structured framework (like Mark did above).
-* Derive clear, actionable insights.
-* Prioritize based on what drives the business.
-* Define a North Star metric to measure progress.
-You can practice with the questions below.
-#### **More example product strategy questions:**
-* [How would you turn Facebook Events around? (written answer)](https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions#example1 "product strategy example answer")
-* How would you bootstrap a product that helps people find apartments?
-* If you were a VC, would you be more bullish on AR or VR?
-* If you were the CEO of LEGO, what new product line would you come up with to increase revenue?
-* Imagine you’re a PM at a startup that works with big data from the NHL — what’s the first product you would ship?
-* How would you sell live plants at Amazon?
-* How would you monetize Facebook Messenger?
-* If you were the CEO of Meta, what are the top three things you would do?
-* Imagine you’re the CEO of Apple — which product would you eliminate from the lineup?
-### **1.6 Estimation questions****[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Estimation or guestimate interview questions require you to assess market sizes, revenue potential, the number of customers, etc. You’ll need to be comfortable with mental math to ace this interview question.
-It will also be useful for you to memorize some common assumptions, such as population and life expectancy, as they will often come up in estimation questions. To help you with this, we’ve created this [downloadable estimation questions cheat sheet](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Copy_of_20190729_Estimation_questions_REVISED_STATS_CHEAT_SHEET.pptx.pdf).
-Let's take a look at an example answer to the question: "How much revenue does YouTube make in a day?"
-#### **How much revenue does YouTube make in a day?**
-Example answer:
-**1. Ask clarification questions**
-* Do we want to calculate all of YouTube's revenues? Or just from advertising, which is likely to be the main source?
-* Does YouTube charge advertisers per 1,000 views or per click? Are we interested in YouTube's revenues globally or just in the US?
-* Do we include YouTube Music?
-Let's assume here that we want to calculate the advertising revenues ($) made by YouTube videos (i.e., not music) in the US only. Let's also assume that YouTube mainly charges advertisers per 1,000 views for simplicity.
-**2. Map out your calculations**
-We could estimate YouTube's daily revenues in the US by taking a three-step approach:
-1. Calculate the number of daily US YouTube users
-2. Calculate the number of advertising videos they view
-3. Calculate the corresponding revenue
-Lay out that approach to your interviewer and check that it works for them before starting your calculations.
-**3. Round numbers and calculate**
-Let's step through our approach:
-a. Calculate the number of daily US YouTube users
-* There are ~300m people in the US. Let's assume that the average life expectancy is 80 years old and that the population is equally distributed across each age.
-* We now need to guesstimate how frequently each age group watches YouTube:
-* 0 to 9 y.o.: does not watch
-* 10 to 20 y.o.: 75% of days
-* 21 to 40 y.o.: 75% of days
-* 41 to 60 y.o.: 50% of days
-* 61 to 80 y.o.: 10% of days
-It's a great idea to justify the assumptions you make by relating them to your personal experience. For instance, here you could say, "I'm going to assume that the 10 to 20 y.o. group watches YouTube 75% of days as my niece watches YouTube Shorts with about that regularity." And I'll assume 10% for the 60 to 80 y.o. group, as some older people do watch, but my grandparents aren't even sure what YouTube is."
-* We then need to calculate the number of users for each age group. We can divide the population into bands of 10 years by dividing 300m by 8: 40m. (or close enough). So we can say that our age groups spanning 10 years have 40m people, and the ones spanning 20 have 80m.
-* We can then calculate the daily users in each age group (rounding up where necessary).
-* 0 to 9 y.o.: 0
-* 10 to 20 y.o.: 75% of days x ~40m = ~30m
-* 21 to 40 y.o.: 75% x ~80m = ~60m
-* 41 to 60 y.o.: 50% x ~80m = ~40m
-* 61 to 80 y.o.: 10% x ~80m = ~10m
-* Total = 30 + 60 + 40 + 8 = ~140m
-* The number of daily YouTube users is therefore approximately 150m in the US (round it to an easy number to help with the next stage of calculations).
-b. Calculate the total number of advertising videos viewed
-Let's now estimate the total number of ad views per day on YouTube.
-* The number of videos viewed by users probably varies quite dramatically. Viewers who watch Shorts on their phones may easily view 20+ short videos per day, though most of these won't have ads. Other users might just watch a single, long-form video. So, let's assume the average is ten videos per day. We've got 150m users, so that's 1.5bn views per day.
-* YouTube does not systematically play an ad at the beginning of a video. Based on our experience, let's assume only 50% of videos viewed start with an ad. So, that's 0.75bn advertising video views per day.
-c. Calculate the corresponding revenue
-* Assuming YouTube charges advertisers $10 per 1,000 views, the total revenues it generates in a day is: 0.75bn x $10 / = $7.5bn, then divided by 1,000 = 7.5m
-We therefore estimate that YouTube generates **about $7.5m per day** in ad revenues in the US only.
-**4. Sense-check your results**
-As mentioned above, it is crucial that you spend some time sense-checking your results. In practice, you should check your intermediate results as you progress through the estimation and your final result at the end. But here we are checking all the numbers in one place, so it's easier for you to keep track of what we are doing.
-* Intermediate result: If ~150m people watch YouTube every day, this means about half the country watches at least one video on any given day. That sounds reasonable.
-* Final result: Similarly, if YouTube generates $7.5m per day, that means it generates ~$350bn per year. Does that sound possible? Here, some familiarity with the tech industry and its revenues is needed. This is indeed a realistic sum, given that [Google said YouTube made about $80bn in ad revenue across all geographies](https://www.shacknews.com/article/139660/google-q1-2024-youtube-ad-revenue-8-billion "Google Q1 2024 Earnings") in Q1 of 2024.
-* Remember that the interviewer is less interested in you getting the "right" answer, and more focused on how you structure your thinking and calculations. But if you end up with a number that seems way off, say so.
-Consult our guide to answering [estimation interview questions](https://igotanoffer.com/blogs/product-manager/estimation-interview-questions "how to answer estimation interview questions") to best prepare yourself for this category. Practice with the questions below.
-#### **More example estimation questions:**
-* [How much time do people spend at stoplights each year? (video answer)](https://youtu.be/HAAWCuJyatU "Mock interview video - how much time do people spend at stop lights each year?")
-* What is the market size for driverless cars in 2026?
-* What is the market size for toilet paper in the US?
-* What is the storage space required to host all images on Google Street View?
-* What is the required internet bandwidth for an average college campus?
-### 1.7 Prioritization and trade-off questions**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-Employers use prioritization/trade-off questions to evaluate candidates’ critical thinking and communication skills.
-There are many different features a PM could prioritize on a given product, as well as different conclusions as to which projects are the most impactful. So your interviewers will want you to single out your highest priorities using a process that includes a thorough investigation of the factors and trade-offs involved.
-Let's see an expert sample answer to the question: "How would you prioritize 3 features?"
-#### You’re the PM for a brand new photo-editing mobile app - explain how you'd prioritize projects A, B, and C
-* Project A: update the in-app messaging system
-* Project B: develop a corresponding desktop app
-* Project C: add a crop tool to the editing suite
-Example answer (using the RICE framework):
-**1. Define the business objective**
-First, you should start by making sure you understand the product properly and agree with your interviewer on specific user and business objectives. Agreeing on the goals upfront is extremely important because your priorities will change depending on what you’re trying to achieve with the product.
-In this instance, given that we’ve been informed we’re the PM for a brand new mobile app, the current business objective could be to drive new user acquisition and engagement. Let’s assume that we’ve run this by the interviewer, and they’ve encouraged you to focus on user engagement.
-Now that we know what we’re working toward, let’s apply a prioritization framework to our three options.
-**2. RICE Framework - Reach**
-First, we’ll determine the Reach for these three projects. For project A, the in-app messaging update, we know that every user who sent messages will be impacted by this change. Let’s say that the interviewer has given us some general numbers to work with, so we know that an average of 250 users have sent messages each month over the last quarter.
-Project B (desktop app) will be more difficult to estimate, as we do not have any concrete numbers to back up how many users will take advantage of the desktop version. Let’s say that we’ve checked with our interviewer and have been informed that our early user base is around 700. Using a more conservative estimate, we guess that 50% of them will use the desktop app. That brings us to 350.
-Finally, as project C is adding a cropping tool to the free category of our full editing suite, we can count the number of users who may implement it. It's a simple, commonly used tool, so we can assume the majority of users will use it, so we’ll round the Reach number to 600.
-So here is our breakdown for Reach:
-Project A: 250
-Project B: 350
-Project C: 600
-**3. RICE framework - Impact**
-For project A (messaging update), let’s say that the interviewer has informed us that users who send messages appear to do so sporadically. They use it to share edited photos with friends who also use the app, something that users are already able to do through the share feature. So, as users who do make use of the messaging system don’t engage with it heavily, let’s say the impact is low, giving us an Impact score of 0.5.
-For project B (desktop app), this feature will have a huge impact on users who adopt the desktop version. Thus the Impact score is 3.
-Finally, project C involves adding a simple cropping tool to the editing features that are available to all users. However, as it is a relatively small addition to the toolset, rather than a complete overhaul, we can assume the impact wouldn’t be “huge.” Let’s choose the “high” Impact score of 2.
-So here is our breakdown for Impact:
-Project A: 0.5
-Project B: 3
-Project C: 2
-**4. RICE framework - Confidence**
-Our Reach value for Project A (messaging update) is concrete and data-based, using the given number of users who send messages on the app. However, we are largely estimating Impact, as we do not yet have the data in the interview setting to back up those scores. We’ll give project A an 80% Confidence score.
-We’ve been given less data on Project B (desktop app) versus project A, meaning we had to make estimations for Reach and Impact. So project B has a low 50% Confidence score.
-We do have a data-based value for Reach in Project C (cropping tool) but not for Impact. So project C will also have a Confidence score of 80%.
-Here is our breakdown for Confidence:
-Project A: 80%
-Project B: 50%
-Project C: 80%
-**5. RICE framework - Effort**
-Let’s say that there’s already a framework in place for the messaging update, so the timeline of Project A won’t take longer than one person-month. This will bring us to an Effort score of 1.
-Project B, designing an entire desktop app, will require a much larger time investment from the whole team. Let’s imagine that you’ve worked on a similar project in your past experience, and that it took six person-months to complete. You should acknowledge to your interviewer that, of course, this is an imperfect comparison. But given the limited information you have in an interview setting, we’ll take this as an Effort score of 6.
-For Project C (cropping tool), let’s say that the interviewer has told us that the team’s previous time investment for adding new editing features was three person-months. So we’ll give project C an Effort score of 3.
-Here is our breakdown for Effort:
-Project A: 1
-Project B: 6
-Project C: 3
-**6. Re-evaluate and consider trade-offs**
-When we take the four previous values and run them through the RICE formula for each project, here is what we find:
-Project A: (250 x 0.5 x .80) / 1 = 100
-Project B: (350 x 3 x .50) / 6 = 88
-Project C: (600 x 2 x .80) / 3 = 320
-So, if we only take the RICE score into account, we should prioritize Project C (cropping tool), then Project A (messaging update), and put Project B (desktop app) at the lowest priority. However, we know that estimations won’t be 100% accurate, especially given the limited information in an interview setting. Consider any other factors that should be taken into account, such as time-sensitive dependencies for other projects.
-In this case, prioritizing the cropping tool makes sense, as the ability to crop photos in an editing app is a basic attribute that many users would expect to be able to access. The trade-offs to consider when prioritizing project C would be that offering a crop tool as a free feature may lead fewer users to upgrade to a paid account; however, it would be riskier to withhold the feature, for fear that users migrate to different apps.
-As Project A (messaging update) and project B (desktop app) have similar RICE scores, this would be a good time to investigate whether there are any other reasons to prioritize one over the other. Let’s imagine that the interviewer mentioned that a desktop application was an early promise they made to stakeholders when initially launching the product. In this case, it would make more sense to prioritize Project B over Project A, despite the order of their RICE scores.
-So, in this context, we should prioritize the projects in this order: C, then B, then A. However, there is no single correct answer for prioritization questions. You may come to a different conclusion than we did, or use a different framework such as the [Kano model](https://www.projectmanagement.com/contentPages/wiki.cfm?ID=571185&thisPageURL=/wikis/571185/Kano-Model#_=_ "Kano model prioritization framework"). The interviewer wants to see that you have a method for making choices and trade-offs, and that you’re considering the most relevant factors.
-[To learn more, see our guide to answering product prioritization questions](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions "product prioritization questions")
-#### **More example prioritization and trade-off questions:**
-* How do you prioritize features?
-* [How would you prioritize WhatsApp chat features?](https://www.youtube.com/watch?v=VBfJayYLSkE "Prioritization mock interview for PMs")
-* How do you deal with trade-offs between opposing metrics, such as higher AoV but lower conversion rate?
-* Evaluate the trade-offs between enlarging posts on the Newsfeed versus showing more ads.
-* As the PM of Facebook Pages, what features would you prioritize?
-* How would you evaluate the trade-offs between boosting ad revenue and decreasing retention?
-### 1.8 Technical questions[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)
-Some companies like [Google](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview "Google PM interview"), [Coinbase](https://igotanoffer.com/blogs/product-manager/coinbase-product-manager-interview "Coinbase PM interview"), and [Uber](https://igotanoffer.com/blogs/product-manager/uber-product-manager-interview "Uber PM interview") prefer technically proficient PMs. In most cases, they’ll ask technical explanation questions to assess two things:
-* Are you comfortable communicating and collaborating closely with engineers and other technical experts?
-* Can you communicate complex topics clearly to non-technical stakeholders?
-If you're applying for an AI-focused PM role, you might get technical explanation questions testing your AI/ML fundamentals.
-In some cases, you’ll get system design questions. Interviewers want to know if you can think at a systems level, reason through technical trade-offs, and connect architectural decisions back to product goals.
-Let’s take a look at sample answers for each type of technical PM question.
-**1.81.1 Technical explanation questions****[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-**Explain to my grandfather how the internet works**
-Example answer:
-**1. Clarify**
-To reduce the scope of the explanation, you can start with, “The internet is composed of many complex elements. I could talk about network connections, blockchain technology, specific web services, etc. But the most fundamental feature of the internet is probably that websites can be accessed by typing a URL in a browser, so this is what I suggest we focus on.”
-**2. Explain step by step**
-Take some time to write out your thoughts, then walk the interviewer through the steps:
-1. The Client browser uses the URL (e.g. example.com) to find the website’s IP address, which is either stored in local memory or found with a DNS lookup. Here’s a metaphor to help explain: a DNS resolver is like a big phone book matching URLs and IP addresses. If you wanted to call “John Smith” on the phone, first you would need to find his number in the phone book.
-2. Next, the browser uses the IP address and queries the internet for the website’s data. This is like if you dialed John Smith’s number, then the phone company would make a connection between your phone lines.
-3. Then the website’s Server sends appropriate data (e.g. an index.html file) back across the internet. To continue the metaphor, when John Smith answers and says hello, his voice is translated into an electronic signal that’s passed through the phone lines.
-4. Finally, the website’s data reaches the browser, which then displays a visual interpretation of that data. This is like your phone’s speaker turning the electronic signal into John Smith’s voice again.
-**3. Conclude and discuss**
-After going over the above, you could conclude by saying, “So, typing a URL into the address bar of a browser works a lot like making a phone call. Information is transferred back and forth between two connection points, and the transferred information needs to be interpreted by the receiver.”
-#### 1.8.2 System design question**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-**“How would you design a notification system for a mobile app?”**
-Example answer outline
-**1. Ask clarifying questions**
-* Scope: What types of notifications are we supporting? Push, in-app, email, SMS, or all of the above? For this walkthrough: push and in-app only. Email, SMS, and rich media are out of scope.
-* Functional requirements:
-* Deliver notifications triggered by user actions (transactional: order shipped, new message received)
-* Deliver notifications triggered by marketing campaigns (promotional: weekly digest, special offers)
-* Support user preference controls: opt out of notification types, set quiet hours (e.g., no notifications between 10pm and 8am in local timezone)
-* Non-functional requirements:
-* Scale: 100 million daily active users
-* Latency: transactional notifications must deliver within 2 seconds; promotional notifications can be batched and delayed
-* Reliability: no silent drops — every notification that should be sent must either arrive or be logged as failed
-**2. Design high-level**
-* Event producers: upstream services that trigger notifications — order service fires an event when a package ships, messaging service fires one on new message received, marketing service fires one for a campaign
-* Notification service: receives incoming events, queries user preferences, decides whether to send, and routes to the right delivery channel
-* Message queue: sits between the notification service and the delivery workers; buffers traffic spikes so a flash sale triggering 5 million order notifications doesn't overwhelm the workers
-* Delivery workers: consume from the queue and dispatch to the device — iOS through Apple's APNs, Android through Google's FCM
-* User preference store: queried by the notification service before every delivery decision; at 100M DAU this lookup happens millions of times per minute, so read speed is critical
-Key metrics: delivery latency (transactional under 2 seconds) and delivery reliability (no silent drops).
-**3. Drill down on your design**
-* Async delivery vs. sync:
-* Synchronous: order service waits for notification delivery before returning. Simple, but tightly coupled — if the notification service is slow or down, order confirmations slow down too.
-* Asynchronous (recommended): order service fires an event and moves on immediately. Notification system processes independently. Workers acknowledge messages before removal from queue to guarantee delivery.
-* Trade-off: async adds acknowledgment complexity, but at 100M DAU the reliability gain far outweighs it.
-* Key-value store for user preferences:
-* Relational database works at lower scale but becomes a bottleneck at millions of lookups per minute.
-* Key-value store (e.g., Redis or DynamoDB) keyed on user ID gives sub-millisecond reads and scales horizontally.
-* Trade-off: complex preference logic (timezone conversion for quiet hours) moves into the application layer rather than the database.
-* Fan-out for high-follower accounts:
-* A single event from a celebrity account may trigger notifications to 10 million followers. Processing this naively at send time creates a massive burst.
-* Pre-compute and cache fan-out lists for high-follower accounts so delivery can be spread over time.
-* Trade-off: some staleness — a user who recently unfollowed may receive one notification before the cache refreshes.
-**4. Bring it all together**
-Here, tie technical decisions to earlier stated product goals and success metrics:
-* Separate transactional and promotional notifications into a fast path and a batched path respectively
-* Architecture: event producers → notification service (preference lookup) → message queue → delivery workers → APNs/FCM
-* Transactional notifications hit the fast path and deliver within 2 seconds even under peak load
-* Promotional notifications go through the batched path, which is more cost-efficient and doesn't compete with transactional traffic
-* User preference controls and timezone-aware quiet hours are enforced at the notification service layer, before any event reaches the queue
-Consult our guides on answering [technical interview questions](https://igotanoffer.com/blogs/product-manager/technical-interview-questions "Technical interview questions for PMs") and [system design questions for PMs](https://igotanoffer.com/en/advice/system-design-questions-product-managers "System design questions for PMs") to prepare yourself for this category.
-#### **More example technical questions**
-**General**
-* [How does Google Calendar work?](https://youtu.be/uhtREgMnOFw "Mock interview video - How does google calendar work?")
-* Explain recursion to your grandmother
-* What technologies would you use to build a live stream video service?
-* Explain the concept of "protocol" to a 4-year-old child
-* What is the difference between C++ and Java?
-* Explain what happens when executing mergesort
-* When are Bayesian methods more appropriate than "Artificial Intelligence" techniques for predictive analytics?
-* How would you most efficiently store large images in a database?
-* Explain the concept of big O notation
-* How would you get authentication to work across domains?
-**AI/ML**
-* What’s your criteria in selecting a model?
-* How do you evaluate a prompt?
-* How do you keep up to date with AI trends?
-* What’s your understanding of the RAG (Retrieval-Augmented Generation) framework?
-* Are you familiar with RLHF (Reinforcement Learning from Human Feedback)?
-* Tell me what you know about DPO (Direct Preference Optimization).
-* What’s your understanding of Generative AI?
-* What are the essential differences between NN (Neural Networks) vs LLM (Large Language Models)?
-* What are the strengths and weaknesses of classic ML models and the implications for the product?
-* When will you use rule-based infrastructure vs. NN vs. LLM models?
-Note: If you are interviewing for a senior PM role, check out our guide on [senior product manager interview questions](https://igotanoffer.com/en/advice/senior-product-manager-interview-questions) to learn more about what questions to expect and how to prepare.
-Now that you've learned all 8 types of product manager interview questions, let's get some insights from PM interviewers as to why they like to ask these questions.
-## 2. Top 19 product manager interview questions (chosen by FAANG+ PMs)**[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-This list of questions has been chosen by ex-interviewers from FAANG companies.
-Not only have they all been through the PM interview process themselves as candidates, but they’ve conducted countless interviews themselves and helped hire PMs for very competitive positions.
-Suffice it to say, they’re experts on product manager interviews.
-Let’s see which questions they most like to ask (in no particular order).
-###### **#1 You're a PM at Uber and your manager tells you that ridership is down 10%. You have a Data Analyst assigned to you who can help answer any questions. What questions would you ask to identify the root cause?**
-Chosen by: [Hussain (ex-Capital One, Shopify)](https://igotanoffer.com/en/coach/hussain "PM interview coach")
-Type of question: [Analytical thinking (metric change)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#analysis)
-_"I like this question because it tests a candidate's thoroughness and organization in thinking,”_ says Hussain, a senior product manager who has run PM interviews at Shopify and Capital One.
-_"If they are thorough, they’ll ask me questions like 'What does 10% drop mean? Is it 10% WoW, or MoM ?' The set of questions they ask me to try to get to the root cause also gives me a good sense of how organized their thinking is.”_
-Watch: [a Meta PM answers a similar metric change question ("engagement drops 10%, what do you do?)](https://youtu.be/-TNeIdOc1F8 "Meta analytical thinking mock interview")
-###### **#2 Pick a product that you usually use but don't like a lot. What don't you like about it?**
-Chosen by: [Jatin (Google, Microsoft)](https://igotanoffer.com/en/coach/jatin)
-Type of question: [product sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#product-design)
-_“Usually, candidates prepare for questions about products that they love, so this is slightly different from that,”_ says Jatin, senior product manager at Microsoft and formerly of Google.
-_“It tries to showcase how the candidate is choosing products to use in their life. Are they looking at products generally from an end-user POV? And do they follow the industry trends to know about other similar products?”_
-Read: [How to crack product sense interviews](https://igotanoffer.com/en/advice/product-sense-interviews "How to crack product sense interviews")
-###### **#3 Tell me about a time a project that failed**
-Chosen by: [Alan (Uber, Amazon)](https://igotanoffer.com/en/coach/alan-2), [Jay (Microsoft)](https://igotanoffer.com/en/coach/jay-3)
-Type of question: [behavioral](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“I'm looking for the candidate to be thoughtful and vocally self-critical about the project and their performance. Ideally, I’d like to see that it was a growth moment for them and they walked away with life-changing learnings,"_ says Alan, ex-director of product at Uber. _"Those learnings are what I hope they bring to their next employer as superpowers or strengths”._
-_“Since almost all products deviate from the original plan, this question helps assess candidates' adaptability, ownership attitude, and learning attitude when faced with deviations or failures,”_ says Jay, PM manager at Microsoft.
-[Click here to see 5 different ways to answer "tell me about a time you failed"](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-failed "5 ways to answer "tell me about a time you failed"")
-###### **#4 Imagine you are on the Google India / Africa strategy team. What would be the 10x bet that you'd put the resources on for Google to focus in the upcoming years?**
-Chosen by: [Jatin (Google, Microsoft)](https://igotanoffer.com/en/coach/jatin)
-Type of question: [strategy](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#strategy)
-_“It helps me learn how much the candidate understands the market and how the candidate is able to define the strengths of a company. Can they focus on the right problems to solve in a market (greenfield or brownfield)?”_ says Jatin.
-Read: [How to answer product strategy questions](https://igotanoffer.com/blogs/product-manager/product-strategy-interview-questions "How to answer product strategy questions")
-###### **#5 How do you gather and incorporate user feedback into the product development process? Can you give an example of a time when user feedback significantly influenced a product decision you made?**
-Chosen by: [Ino (Palo Alto Networks)](https://igotanoffer.com/en/coach/ino)
-Type of question: [behavioral (customer-centricity)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“Understanding how a candidate integrates user feedback demonstrates their customer-centric approach to product management,”_ says Ino, principal product manager at Palo Alto Networks.
-_“It assesses their empathy for users, proficiency in user research methodologies, and ability to translate insights into actionable product improvements. It's crucial for evaluating their commitment to iterative improvement and their effectiveness in delivering value to users.”_
-###### **#6. Imagine you’re a PM at Meta. How would you design a product around sports?**
-Chosen by: [Philip (Meta)](https://igotanoffer.com/en/coach/philip-3)
-Type of question: [product design/ sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-_"I like asking this kind of open-ended question because it forces MECE (mutually exclusive collectively exhaustive) thinking,”_ says Philip, ex-Meta product lead.
-_“The candidate needs to clarify what “product around sports” means. They are forced to sharpen and narrow down a nebulous problem, just as they’ll need to do in real life if they get the job.”_
-Watch: [An ex-Meta PM answers a similar product design question ("design a fitness app for Meta")](https://youtu.be/oGqz-TMQNR4 "Meta product sense mock interview")
-###### **#7 How do you deal with conflict?**
-Chosen by: [Jessica (Amazon)](https://igotanoffer.com/en/coach/jessica-2)
-Type of question: [behavioral](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“This question reveals the interviewees' communication style and how they work through stakeholder management,”_ says Jessica, ex product marketing manager at Amazon.
-_“Who do they center on when working through conflict? The answer should be the consumer.”_
-[Click here for our specific guide to answering the conflict question](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-had-a-conflict "5 ways to answer 'Tell me about a time you dealt with conflict'?")
-###### **#8 Can you give an example of a time when close collaboration with engineers led to a successful outcome?**
-Chosen by: [Irit (Red Hat)](https://igotanoffer.com/en/coach/irit)
-Type of question: [behavioral (cross-functional collaboration)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“This question helps understanding how the PM works with engineering, how they communicate requirements and being able to understand the technical constraints while making product decisions,”_ says Irit, engineering group manager at Red Hat in Boston. _“It also helps to learn about the candidate's collaboration skills.”_
-###### **#9 Can you describe a situation where you had to advocate for a significant change in a product or project strategy? How did you approach it, and what was the outcome?**
-Chosen by: [Ino (Palo Alto Networks)](https://igotanoffer.com/en/coach/ino)
-Type of question: [behavioral](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“This question helps gauge a candidate's influence and persuasion skills. It reveals their ability to articulate a clear vision, negotiate stakeholder buy-in, and drive consensus around strategic decisions,”_ says Ino.
-_“It also provides insight into their resilience and adaptability in navigating organizational challenges.”_
-Read: [5 ways to answer "Tell me a time you handled a difficult stakeholder"](https://igotanoffer.com/blogs/tech/tell-me-about-a-time-you-handled-a-difficult-stakeholder "5 ways to answer Tell me a time you handled a difficult stakeholder")
-###### **#10 What's your favorite product and why? How would you improve it?**
-Chosen by: [Jessica (Amazon)](https://igotanoffer.com/en/coach/jessica-2), [Jay (Microsoft)](https://igotanoffer.com/en/coach/jay-3)
-Type of question: [product sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-_“The 'favorite product' and 'why' questions can help assess whether candidates demonstrate a strong product sense in their daily lives,”_ says Jay. _“When asking about 'how to improve it,' I seek both personal preferences and recommendations from the perspective of a product owner. Different decision factors come into play depending on the role, influencing their suggestions.”_
-_“I like this question because it shows if the interviewee has a genuine passion for the space, and it's a good question for them to show industry expertise in,”_ says Jessica.
-Read: [How to answer the favorite product interview question](https://igotanoffer.com/blogs/product-manager/favorite-product-interview-question "How to answer the favorite product interview question")
-###### **#11 If you were tasked with designing a competitor to ChatGPT, what unique features would you implement to differentiate it, and how would you validate the need for these features?**
-Chosen by: [Suhel (Microsoft)](https://igotanoffer.com/en/coach/suhel)
-Type of question: [product sense (AI)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-_“This question challenges the candidate to think critically about current AI technologies and encourages them to consider innovation beyond existing capabilities,”_ says Suhel, principal product manager at Microsoft.
-_“It reveals their ability to identify market gaps, strategize feature sets, and their approach to user research and validation.”_
-###### **#12 Tell me about a time when you had to prioritize multiple competing projects or features. How did you approach it?**
-Chosen by: [Jessica (Amazon)](https://igotanoffer.com/en/coach/jessica-2), [Ino (Palo Alto Networks)](https://igotanoffer.com/en/coach/ino)
-Type of question: prioritization
-_“This question tests how the interviewee thinks through competing priorities. Do they have an organized system for evaluating when they need to complete different tasks/deliverables?”_ says Jessica. _“The interviewee should not rely on their manager to organize their tasks for them.”_
-_“It’s excellent for revealing a candidate's ability to prioritize effectively, manage competing demands, and make strategic decisions,”_ says Ino. _“It assesses their organizational skills, understanding of business priorities, and their approach to balancing short-term goals with long-term objectives in a dynamic environment.”_
-Read: [How to answer prioritization questions in PM interviews](https://igotanoffer.com/blogs/product-manager/prioritization-and-trade-off-interview-questions "How to answer prioritization questions in PM interviews")
-###### **#13 How would you handle a situation where a new feature negatively impacts user productivity?**
-Chosen by: [Javaid](https://igotanoffer.com/en/coach/javaid "PM interview coach")
-Type of question: [behavioral](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“This question helps me evaluate problem-solving skills, user-centric thinking, analytical approach, and adaptability/resilience,”_ says Javaid, formerly Amazon and now product TPM at Microsoft.
-Watch: [how to answer hypothetical / scenario questions](https://youtu.be/CxqIbGnEjPg?t=2737)
-###### **#14 What goals and metrics would you set for Instagram Shopping?**
-Chosen by: [Philip (Meta)](https://igotanoffer.com/en/coach/philip-3), [Jessica (Amazon)](https://igotanoffer.com/en/coach/jessica-2),
-Type of question: [analytical thinking (metric definition)](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#analysis)
-_“I like using Instagram Shopping for this metrics definition question because there are multiple similar products, like Instagram Shopping, Facebook Pages and Facebook Marketplace, which have similar goals but are definitely different in the value chain,”_ says Philip.
-_"Facebook Marketplace is more transactional and local, Instagram Shopping is about an experience and need not be local. The candidate needs to show deep product understanding which should be translated to metrics and goals.”_
-_“Product managers need to be able to quantify the success/failure of their products. Not all metrics are useful,”_ says Jessica. _“This question tests if they can identify the right metrics for evaluating the success of their product at the stage they're in.”_
-###### **#15 Imagine you have built the first communication technology for communicating between Earth and Mars. How will you design the user experience for this?**
-Chosen by: [Jatin (Google, Microsoft)](https://igotanoffer.com/en/coach/jatin)
-Type of question: [product sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-_“This question helps me learn how a candidate is able to scope a problem down and handle a vague and broad problem statement,”_ says Jatin. “ _It also shows whether they can prioritize the right use cases to solve for.”_
-###### **#16 A group of student researchers have invented shoes that can change colors. They've hired you to bring this to market. What are three questions you ask, and then what's your plan?**
-Chosen by: [Gaurav (Paypal, Spotify)](https://igotanoffer.com/en/coach/gaurav-4)
-Type of question: [product sense](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#sense)
-_“I ask this to see how they break down a problem,”_ says Gaurav, senior product manager for PayPal, previously at Grab and Spotify. _“Will they prioritize the questions that will give them the most footprint to answer future questions?”_
-Read: [How to demonstrate product sense](https://igotanoffer.com/en/advice/product-sense-interviews#tips "How to demonstrate product sense")
-###### **#17 Describe a situation where you had to make a product decision without all the data you wanted. What was the decision, and how did you arrive at it?**
-Chosen by: [Suhel (Microsoft)](https://igotanoffer.com/en/coach/suhel)
-Type of question: [behavioral](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#behavioral)
-_“This question uncovers how a candidate deals with uncertainty and limited information, which is a common scenario in product management,”_ says Suhel. _“It shows their problem-solving skills, ability to prioritize, and risk assessment capabilities.”_
-###### #18 “How would you explain a complex AI system to a non-technical stakeholder and get buy-in?”
-Chosen by: [Casey](https://igotanoffer.com/en/coach/casey) eBay, Sr. Technical Product Manager II
-Type of question: technical explanation
-_"I use this question to assess the following skills: communication, influence without authority, user empathy, ability to simplify complexity. To ace this question, I would advise PM candidates to highlight the following: how you broke down technical concepts into simple analogies, how you tailored the message to the stakeholder’s goals, and how you balanced transparency about risks/limitations with a clear articulation of value."_
-###### 19. “Imagine the model you launched is underperforming—how do you triage and prioritize next steps?”
-Chosen by: [Casey](https://igotanoffer.com/en/coach/casey) eBay, Sr. Technical Product Manager II
-Type of question: prioritization
-_"I like this question because it helps me assess the following core AI PM skills: problem-solving, prioritization, cross-functional collaboration, and resilience. To stand out, you’ll want to show your structured approach to the problem: diagnosis (data quality, model accuracy, user adoption), prioritization of fixes, how you’d partner with engineering/data science, and how you’d communicate updates to stakeholders. You’ll differentiate yourself by emphasizing that you learn and iterate fast."_
-## **3.**How to prepare for product management interviews******[↑](https://igotanoffer.com/blogs/product-manager/product-manager-interview-questions#questions)**
-We've coached more than 15,000 people for interviews since 2018. There are essentially three activities you can do to practice for interviews. Here’s what we've learned about each of them.
-### 3.1 Learn by yourself
-Learning by yourself is an essential first step. We recommend you make full use of the free prep resources on this blog, starting with the [product manager interview process guide ](https://igotanoffer.com/en/advice/product-manager-interview-process "Product manager interview process")to learn all about the process.
-Also, watch some mock interviews on our [product management YouTube channel](https://www.youtube.com/@IGotAnOfferPM). That way, you can see what an excellent answer looks like.
-You may be able to find a specific interview guide for the company or PM role you're targeting in the list below:
-* [Google product manager interview guide](https://igotanoffer.com/blogs/product-manager/google-product-manager-interview "Google product manager interview guide")
-* [Google APM interview guide](https://igotanoffer.com/blogs/product-manager/google-associate-product-manager-interview "Google APM interview guide")
-* [Meta product manager interview guide](https://igotanoffer.com/blogs/product-manager/facebook-product-manager-interview "Facebook product manager interview guide")
-* [Meta RPM interview guide](https://igotanoffer.com/blogs/product-manager/facebook-rpm-interview "Facebook RPM interview")
-* [Amazon product manager interview guide](https://igotanoffer.com/blogs/product-manager/amazon-product-manager-interview "Amazon product manager interview guide")
-* [Microsoft product manager interview guide](https://igotanoffer.com/blogs/product-manager/microsoft-program-manager-interview "Microsoft product manager interview guide")
-* [LinkedIn product manager interview guide](https://igotanoffer.com/blogs/product-manager/linkedin-product-manager-interview "LinkedIn product manager interview guide")
-* [Uber product manager interview guide](https://igotanoffer.com/blogs/product-manager/uber-product-manager-interview "Uber product manager interview")
-* [Stripe product manager interview guide](https://igotanoffer.com/blogs/product-manager/stripe-product-manager-interview "Stripe PM interview guide")
-* [Lyft product manager interview guide](https://igotanoffer.com/blogs/product-manager/lyft-product-manager-interview "Lyft product manager interview guide")
-* [Apple product manager interview guide](https://igotanoffer.com/blogs/product-manager/apple-product-manager-interview "Apple PM interview guide")
-* [TikTok product manager interview guide](https://igotanoffer.com/blogs/product-manager/tiktok-product-manager-interview "TikTok PM interview guide")
-* [Coinbase product manager interview guide](https://igotanoffer.com/blogs/product-manager/coinbase-product-manager-interview "Coinbase product manager interview guide")
-* [Airbnb product manager interview guide](https://igotanoffer.com/blogs/product-manager/airbnb-product-manager-interview "Airbnb product manager interview guide")
-* [DoorDash product manager interview guide](https://igotanoffer.com/blogs/product-manager/doordash-product-manager-interview "DoorDash product manager interview guide")
-* [Netflix product manager interview guide](https://igotanoffer.com/blogs/product-manager/netflix-product-manager-interview "Netflix product manager interview guide")
-* [NVIDIA product manager interview guide](https://igotanoffer.com/en/advice/nvidia-product-manager-interview "Nvidia product manager interview guide")
-* [Spotify product manager interview guide](https://igotanoffer.com/en/advice/spotify-product-manager-interview "Spotify product manager interview guide")
-* [OpenAI product manager interview guide](https://igotanoffer.com/en/advice/openai-product-manager-interview "OpenAI Product Manager Interview \(questions, process, prep\)")
-* [Oracle product manager interview guide](https://igotanoffer.com/en/advice/oracle-product-manager-interview "Oracle Product Manager Interview \(questions, process, prep\)")
-* [Product owner interview questions](https://igotanoffer.com/blogs/product-manager/product-owner-interview-questions "product owner interview questions")
-* [AI PM interview questions](https://igotanoffer.com/en/advice/ai-product-manager-interview "AI PM interview questions")
-Once you’re in command of the subject matter, you’ll want to practice answering questions. But by yourself, you can’t simulate thinking on your feet or the pressure of performing in front of a stranger. Plus, there are no unexpected follow-up questions and no feedback.
-That’s why many candidates try to practice with friends or peers.
-### 3.2 Practice with peers
-If you have friends or peers who can do mock interviews with you, that's an option worth trying. It’s free, but be warned, you may come up against the following problems:
-* It’s hard to know if the feedback you get is accurate
-* They’re unlikely to have insider knowledge of interviews at your target company
-* On peer platforms, people often waste your time by not showing up
-For those reasons, many candidates skip peer mock interviews and go straight to mock interviews with an expert.
-### 3.3 Practice with experienced PM interviewers
-In our experience, practicing real interviews with experts who can give you company-specific feedback makes a huge difference.
-Find a FAANG+ [product manager interview coach](https://igotanoffer.com/en/interview-coaching/role/product-manager "Product manager interview coaches") so you can:
-* Test yourself under real interview conditions
-* Get accurate feedback from a real expert
-* Build your confidence
-* Get company-specific insights
-* Learn how to tell the right stories better.
-* Save time by focusing your preparation
-Landing a job at a big tech company often results in a $50,000 per year or more increase in total compensation. In our experience, three or four coaching sessions worth ~$500 make a significant difference in your ability to land the job. That’s an ROI of 100x!
-[Click here to book product manager mock interviews with experienced PM interviewers. ](https://igotanoffer.com/en/mock-interviews/role/product-manager "Product manager mock interview")
-[ Browse PM ex-interviewers ](https://igotanoffer.com/en/interview-coaching/role/product-manager)
-
----
-
 ## Airbnb software engineer interview (questions and process) - IGotAnOffer
 
 URL: https://igotanoffer.com/blogs/tech/airbnb-software-engineer-interview
@@ -1077,6 +167,144 @@ Landing a job at a big tech company often results in a $50,000 per year or more 
 [Click here to book software engineer mock interviews with experienced SWE interviewers. ](https://igotanoffer.com/en/mock-interviews/role/software-engineer "Software engineer mock interviews")
 
 ---
+
+## 47 case interview examples (from McKinsey, BCG, Bain, etc.) - IGotAnOffer
+
+URL: https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples
+Scraped: 2026-06-13T12:58:22.249Z
+Depth: 1
+
+# 47 case interview examples (from McKinsey, BCG, Bain, etc.)
+By [Max Serrano](https://igotanoffer.com/en/author/max-serrano) Last updated: May 10, 2026 [ How we wrote this article ](https://igotanoffer.com/en/pages/how-we-write-articles)
+One of the best ways to prepare for[case interviews](https://igotanoffer.com/pages/case-interview "Case interviews") at firms like McKinsey, BCG, or Bain, is by studying case interview examples.
+There are a lot of free sample cases out there, but it's really hard to know where to start. So in this article, we have listed all the best free case examples available, in one place.
+The below list of resources includes interactive case interview samples provided by consulting firms, video case interview demonstrations, case books, and materials developed by the team here at IGotAnOffer. Let's continue to the list.
+* [McKinsey examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#mckinsey)
+* [BCG examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#bcg)
+* [Bain examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#bain)
+* [Deloitte examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#deloitte)
+* [Other firms' examples](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#other)
+* [Case books from consulting clubs](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#books)
+* [Case interview preparation](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/case-interview-examples#prep)
+##### [Click here to practise 1-on-1 with MBB ex-interviewers](https://igotanoffer.com/en/interview-coaching/type/case-interview "Case interview coaches")
+## **1. McKinsey case interview examples**
+* [Beautify case interview](https://www.mckinsey.com/careers/interviewing/beautify "Beautify case interview") (McKinsey website)
+* [Diconsa case interview](https://www.mckinsey.com/careers/interviewing/diconsa "Diconsa case interview \(McKinsey\)") (McKinsey website)
+* [Electro-light case interview](https://www.mckinsey.com/careers/interviewing/electrolight "Electro-Light case interview \(McKinsey\)") (McKinsey website)
+* [GlobaPharm case interview](https://www.mckinsey.com/careers/interviewing/globapharm "GlobaPharm case interview \(McKinsey\)") (McKinsey website)
+* [National Education case interview](https://www.mckinsey.com/careers/interviewing/national-education "National Education case interview \(McKinsey\)") (McKinsey website)
+* [Talbot Trucks case interview](https://www.mckinsey.com/careers/interviewing/talbot-trucks "Talbot Trucks McKinsey case interview") (McKinsey website)
+* [Shops Corporation case interview](https://www.mckinsey.com/careers/interviewing/shops-corporation "Shops Corporation McKinsey case interview") (McKinsey website)
+* [Conservation Forever case interview](https://www.mckinsey.com/careers/interviewing/conservation-forever "Conservation Forever McKinsey case interview") (McKinsey website)
+* [McKinsey case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/115672708-mckinsey-case-interview-preparation-the-only-post-youll-need-to-read "McKinsey case interview guide") (by IGotAnOffer)
+* [Profitability case with ex-McKinsey manager](https://www.youtube.com/watch?v=XByqDlkpjoM) (by IGotAnOffer)
+* McKinsey live case interview extract (by IGotAnOffer) - See below
+[Click here to learn more about the McKinsey interview process](https://igotanoffer.com/en/advice/mckinsey-interview-process "McKinsey interview process").
+## **2. BCG case interview examples**
+* [Foods Inc and GenCo case samples](https://careers.bcg.com/case-prep "BCG sample case interviews") (BCG website)
+* [Chateau Boomerang written case interview](http://media-publications.bcg.com/BCG-Written-Case-Example.pdf "BCG case interview") (BCG website)
+* [BCG case interview guide](https://igotanoffer.com/pages/bcg-case-interview "BCG Case Interview Guide") (by IGotAnOffer)
+* [Written cases guide](https://igotanoffer.com/pages/written-case-interview "Written cases guide") (by IGotAnOffer)
+* [BCG live case interview with notes](https://youtu.be/oaIWurgCxsU?si=Iq9xKxsBhKe_JpAv) (by IGotAnOffer)
+* [BCG mock case interview with ex-BCG associate director - Public sector case (by IGotAnOffer)](https://youtu.be/VMakBWg4Hs8?si=zY-Div_NDJqaWMnF)
+* [BCG mock case interview: Revenue problem case](https://youtu.be/dYN3iBB5ACM?si=u19kHwvTQPKiQWvy) (by IGotAnOffer) - See below
+## **3. Bain case interview examples**
+* [CoffeeCo practice case](https://www.bain.com/careers/interview-prep/case-library/coffee-case-study/ "Bain practice case example") (Bain website)
+* [FashionCo practice case](https://www.bain.com/careers/interview-prep/case-library/fashioco-case-study/ "Bain practice case interview") (Bain website)
+* [Associate Consultant mock interview video](https://www.bain.com/careers/interview-prep/case-interview/associate-consultant-practice-case-interview/ "Bain mock case interview example") (Bain website)
+* [Consultant mock interview video](https://www.bain.com/careers/interview-prep/case-interview/cons-video/ "Bain mock case interview video") (Bain website)
+* [Written case interview tips](http://www.bain.com/careers/interview-preparation/written-case-interview.aspx "Written case interview example") (Bain website)
+* [Bain case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/bain-case-interview "Bain Case Interview Guide")(by IGotAnOffer)
+* [Written cases guide](https://igotanoffer.com/pages/written-case-interview "Written cases guide") (by IGotAnOffer)
+* [Digital transformation case with ex-Bain consultant](https://www.youtube.com/watch?v=qjfkFSzWNIk "Mock case interview \(digital transformation\)")
+* [Bain case mock interview - profitability case- with ex-Bain manager](https://youtu.be/OxUkRbzAfRI) (by IGotAnOffer)
+* Bain case mock interview - classic growth case with ex-Bain consultant (by IGotAnOffer)
+## **4. Deloitte case interview examples**
+* [Engagement Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/1 "Agency V Deloitte case interview") (Deloitte website)
+* [Recreation Unlimited practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/3 "Recreation Unlimited Deloitte case interview") (Deloitte website)
+* [Strategic Vision practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ug/2 "Federal Benefits Provider Deloitte case interview") (Deloitte website)
+* [Retail Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ad/1 "Retail Strategy cases questions \(by Deloitte\)") (Deloitte website)
+* [Finance Strategy practice case](http://caseinterviewprep.deloitte.com/cases/strategy/ad/2 "Finance Strategy case question") (Deloitte website)
+* [Talent Management practice case](http://caseinterviewprep.deloitte.com/cases/strategy/adv/3 "Talent Management Deloitte case interview") (Deloitte website)
+* [Enterprise Resource Management practice case](http://caseinterviewprep.deloitte.com/cases/tech/ad/1 "Enterprise Resource Management Deloitte case interview") (Deloitte website)
+* [Footloose written case](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Monitor_Written_Case_Footloose.pdf "Deloitte Footloose written case interview") (by Deloitte)
+* [Deloitte case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/deloitte-case-interview "Deloitte case interview guide") (by IGotAnOffer)
+## **5. Accenture case interview examples**
+* [Case interview workbook](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Accenture_Case_Interview_Workbook.pdf "Accenture case interview examples workbook") (by Accenture)
+* [Accenture case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/accenture-case-interview "Accenture case interview guide") (by IGotAnOffer)
+## **6. OC &C case interview examples**
+* [Leisure Club case example](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/OC_C_-_Leisure_clubs.pdf "Leisure club case example \(by OC&C\)") (by OC&C)
+* [Imported Spirits case example](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/OC_C_-_Imported_spirits.pdf "Imported Spirits case example \(by OC&C\)") (by OC&C)
+## **7. Oliver Wyman case interview examples**
+* [Wumbleworld case sample](http://www.oliverwyman.com/careers/apply/case-studies/wumbleworld.html "Wumbleworld case sample \(by Oliver Wyman\)") (Oliver Wyman website)
+* [Aqualine case sample](http://www.oliverwyman.com/careers/apply/case-studies/aqualine.html "Aqualine case sample \(by Oliver Wyman\)") (Oliver Wyman website)
+* [Oliver Wyman case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/oliver-wyman-case-interview "Oliver Wyman case interview guide") (by IGotAnOffer)
+## **8. A.T. Kearney case interview examples**
+* [Promotion planning case question](https://www.atkearney.com/working-here/ace-the-interview/case-example-promotion-planning "Promotions planning case question \(by A.T. Kearney\)") (A.T. Kearney website)
+* [Consulting case book and examples](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/ATK.pdf "Consulting case book and exmaples \(by A.T. Kearney\)") (by A.T. Kearney)
+* [AT Kearney case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/at-kearney-case-interview "AT Kearney case interview guide") (by IGotAnOffer)
+## **9. Strategy & / PWC case interview examples**
+* [Presentation overview with sample questions](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Strategy_Case_Study.pdf "Strategy& PWC example case interview questions") (by Strategy& / PWC)
+* [Strategy& / PWC case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/strategy-pwc-case-interview "Strategy& PWC Case Interview Guide") (by IGotAnOffer)
+## **10. L.E.K. Consulting case interview examples**
+* [Case interview example video walkthrough](https://www.lek.com/management-consulting-case-interview-example "LEK case interview example")(L.E.K. website)
+* [Market sizing case example video walkthrough](https://www.lek.com/lek-market-sizing-interview "LEK market sizing case interview example") (L.E.K. website)
+## **11. Roland Berger case interview examples**
+* [Transit oriented development case webinar part 1](https://www.rolandberger.com/en/Join/Video/Webinar/Transit-oriented-development-1.html "Roland Berger case interview example") (Roland Berger website)
+* [Transit oriented development case webinar part 2](https://www.rolandberger.com/en/Join/Video/Webinar/Transit-oriented-development-2.html "Roland Berger case interview example")(Roland Berger website)
+* [3D printed hip implants case webinar part 1](https://www.rolandberger.com/en/Join/Video/Webinar/3D-printed-hip-implants-1.html "Roland Berger hip implant case example")(Roland Berger website)
+* [3D printed hip implants case webinar part 2](https://www.rolandberger.com/en/Join/Video/Webinar/3D-printed-hip-implants-2.html "3D printed hip implants case interview example")(Roland Berger website)
+* [Roland Berger case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/roland-berger-case-interview "Roland Berger case interview guide")(by IGotAnOffer)
+## **12. Capital One case interview examples**
+* [Case interview example video walkthrough](https://jobs.capitalone.co.uk/business-analyst-case-study-guide "Capital One Case Interview Study Guide") (Capital One website)
+* [Capital One case interview guide](https://igotanoffer.com/blogs/mckinsey-case-interview-blog/capital-one-case-interview "Capital One Case Interview Guide") (by IGotAnOffer)
+## **12. EY Parthenon case interview examples**
+* [Candidate-led case example with feedback](https://www.youtube.com/watch?v=INtfZjUZSP4 "Mock case interview") (by IGotAnOffer)
+## **14. Consulting clubs case interview examples**
+* [Berkeley case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Haas_2006.pdf "Berkeley case book \(2006\)")
+* [Columbia case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Columbia_2006.pdf "Columbia Business School 2006 Case book")
+* [Darden case book (2012)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Darden_2012.pdf "Darden case book \(2012\)")
+* [Darden case book (2018)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Darden_Case_Book_2018-2019.pdf "Darden case book")
+* [Duke case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Duke_2011.pdf "Duke case book \(2011\)")
+* [Duke case book (2014)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Fuqua-Case-book-2014.pdf "Duke case book \(2014\)")
+* [ESADE case book (2011)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/ESADE_2011.pdf "ESADE case book \(2011\)")
+* [Goizueta case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2006_Emory_Case_Book.pdf "Emory Goizueta case book")
+* [Illinois case book (2015)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2015_Illinois_Gies_Case_Book.pdf "Illinois Gies case book")
+* [LBS case book (2006)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/LBS_2006.pdf "LBS case book \(2006\)")
+* [MIT case book (2001)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/MIT_2001.pdf "MIT case book \(2001\)")
+* [Notre Dame case book (2017)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/2017_Notre_Dame_Case_Book.pdf "Notre Dame case book")
+* [Ross case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Ross_2010.pdf "Ross case book \(2010\)")
+* [Wharton case book (2010)](https://d3no4ktch0fdq4.cloudfront.net/public/course/files/Wharton_2010.pdf "Wharton case book \(2010\)")
+## 5. How to practise case interviews
+We've coached more than 15,000 people for interviews since 2018. There are essentially three activities you can do to practice case interviews. Here’s what we've learned about each of them.
+### 5.1 Practise by yourself
+Learning by yourself is an essential first step. We recommend you make full use of the free prep resources on our [consulting blog](https://igotanoffer.com/blogs/mckinsey-case-interview-blog "Consulting interview prep"). You can start with our complete Case Interview Prep guide.
+If you prefer visual content (which can be really useful for explaining case interview techniques), watch the video below to see one of our coaches take you through how to ace a case interview, step by step.
+Once you’re in command of the subject matter, you’ll want to practice answering cases. But by yourself, you can’t simulate thinking on your feet or the pressure of performing in front of a stranger. Plus, there are no unexpected follow-up questions and no feedback.
+That’s why many candidates try to practice with friends or peers.
+### 5.2 Practise with peers
+If you have friends or peers who can do mock interviews with you, that's an option worth trying. It’s free, but be warned, you may come up against the following problems:
+* It’s hard to know if the feedback you get is accurate
+* They’re unlikely to have insider knowledge of interviews at your target company
+* On peer platforms, people often waste your time by not showing up
+For those reasons, many candidates skip peer mock interviews and go straight to mock interviews with an expert.
+### 5.3 Practise with experienced MBB interviewers
+In our experience, practising real interviews with experts who can give you company-specific feedback makes a huge difference.
+Find a [consulting interview coach](https://igotanoffer.com/en/interview-coaching/type/case-interview) so you can:
+* Test yourself under real interview conditions
+* Get accurate feedback from a real expert
+* Build your confidence
+* Get company-specific insights
+* Learn how to tell the right stories, better.
+* Save time by focusing your preparation
+Landing a job at a top consulting company often results in a $50,000 per year or more increase in total compensation. In our experience, three or four coaching sessions worth ~$500 will make a significant difference in your ability to land the job. That’s an ROI of 100x!
+[Click here to book case interview coaching with experienced MBB interviewers.](https://igotanoffer.com/en/interview-coaching/type/case-interview)
+[ Browse MBB ex-interviewers ](https://igotanoffer.com/en/interview-coaching/type/case-interview)
+
+---
+
+
+
 
 ## 71 algorithm interview questions with solutions (and cheat sheet) - IGotAnOffer
 
